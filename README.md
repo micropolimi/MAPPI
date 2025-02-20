@@ -8,20 +8,19 @@
 
 ## 🌱 Overview
 APPI (Adult Plant Projection Imaging) is an open-source project dedicated to advanced imaging of growing plants. It provides tools for:
-- **Software-controlled imaging** using cameras and LEDs.
+- **Software-controlled optical imaging** using cameras and LEDs.
 - **Automated data analysis** with region-of-interest registration.
 - **Hardware integration** for multiview plant growth monitoring.
 
-🔗 **Explore our repository and contribute to the project!**
+**Explore our repository and contribute to the project!**
 
 ---
 
 ## 🖥️ Software Installation
-The control software for APPI is based on [Scope Foundry]. To set up the environment:
+The control software for APPI is based on [Scope Foundry]. To set up the environment and install the software:
 1. Follow the [Scope Foundry installation] guidelines.
-2. Download and install the [APPI code], which runs cameras, LEDs, and triggers with a dedicated [App].
+2. Download or clone the [APPI code], which runs cameras, LEDs, and triggers with a dedicated [App].
 
-📌 _Ensure all dependencies are properly installed to avoid compatibility issues._
 
 ---
 
@@ -35,8 +34,7 @@ For analyzing APPI datasets of growing plants, we recommend using the [Napari RO
 
 ![Napari ROI Registration](https://github.com/micropolimi/APPI/raw/main/images/roi_registration.gif)
 
-🔹 _Provides precise region tracking over time._  
-🔹 _Optimized for large datasets._  
+🔹 _Provides precise region tracking over time._   
 🔹 _Easy-to-use with Napari interface._
 
 ---
