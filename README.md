@@ -58,7 +58,6 @@ Have suggestions or issues? Feel free to [file an issue] or contribute to the pr
 - [Scope Foundry] - Imaging framework
 - [Scope Foundry Installation] - Step-by-step setup guide
 - [APPI Code] - Source files
-- [App] - Control software for imaging
 - [Napari ROI Registration Plugin] - Data analysis tool
 
 [Scope Foundry]: https://scopefoundry.org/
