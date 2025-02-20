@@ -17,12 +17,12 @@ APPI (Adult Plant Projection Imaging) is an open-source project dedicated to adv
 ## 🖥️ Software Installation
 The control software for APPI is based on [Scope Foundry]. To set up the python environment and install the software:
 1. Follow the [Scope Foundry installation] guidelines.
-2. Download or clone the [APPI code], which runs cameras, LEDs, and triggers with a dedicated [App].
+2. Download or clone the [APPI code], which runs cameras, LEDs, and controls triggers with a dedicated [App].
 
 ---
 
 ## ⚙️ Software Usage
-🚧 _Work in progress._ Stay tuned for updates!
+🚧 _Work in progress._ 
 
 ---
 
@@ -47,7 +47,7 @@ For analyzing APPI datasets of growing plants, we recommend using the [Napari RO
 ---
 
 ## 🍃 Case study
-🚧 _Work in progress._
+🚧 _Work in progress._ Stay tuned for updates!
 
 ---
 
