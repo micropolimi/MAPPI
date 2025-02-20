@@ -19,7 +19,7 @@ Work in progress
 ----------------------------------
 ## Data Analysis
 
-For analyzing APPI images and time lapse plant acquisition we recommend using the [Napari Roi Registration plugin] 
+For analyzing APPI images and time lapse plant acquisition we recommend using the [Napari Roi Registration plugin], specifically developed to perform registration of regions-of-interests in time-lapse data. 
 ![napari](https://github.com/micropolimi/APPI/raw/main/images/napari.png)
 
 
