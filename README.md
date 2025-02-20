@@ -49,6 +49,13 @@ For analyzing APPI datasets of growing plants, we recommend using the [Napari RO
 
 ---
 
+## License
+
+Distributed under the terms of the [BSD-3] license,
+"appi" is free and open source software
+
+---
+
 ## 📬 Contribute & Support
 Have suggestions or issues? Feel free to [file an issue] or contribute to the project!
 
@@ -64,3 +71,4 @@ Have suggestions or issues? Feel free to [file an issue] or contribute to the pr
 [Appi code]: https://github.com/micropolimi/APPI/raw/main/src
 [App]: https://github.com/micropolimi/APPI/raw/main/src/plant_app.py
 [Napari Roi Registration plugin]: https://www.napari-hub.org/plugins/napari-roi-registration
+[BSD-3]: http://opensource.org/licenses/BSD-3-Clause
