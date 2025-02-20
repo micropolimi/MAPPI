@@ -1,43 +1,69 @@
-# APPI
+# APPI - Adult Plant Projection Imaging
+
 [![License](https://github.com/micropolimi/APPI/raw/main/images/licence_img.svg)](https://github.com/micropolimi/APPI/raw/main/LICENSE)
 
-Open software and open hardware for the Adult Plant Projection Imaging project
+🚀 **Open Software & Hardware for Plant Imaging**
 
-----------------------------------
+---
 
-## Software Installation
-The control software for the APPI project is based on [Scope Foundry]. 
-To get started we recommend following the [Scope Foundry installation] guidelines.
+## 🌱 Overview
+APPI (Adult Plant Projection Imaging) is an open-source project dedicated to advanced imaging of growing plants. It provides tools for:
+- **Software-controlled imaging** using cameras and LEDs.
+- **Automated data analysis** with region-of-interest registration.
+- **Hardware integration** for multiview plant growth monitoring.
 
-The [APPI code] runs cameras, LEDs and triggers with a decicated [App].  
+🔗 **Explore our repository and contribute to the project!**
 
-----------------------------------
-## Software Usage
+---
 
-Work in progress
+## 🖥️ Software Installation
+The control software for APPI is based on [Scope Foundry]. To set up the environment:
+1. Follow the [Scope Foundry installation] guidelines.
+2. Download and install the [APPI code], which runs cameras, LEDs, and triggers with a dedicated [App].
 
-----------------------------------
-## Data Analysis
+📌 _Ensure all dependencies are properly installed to avoid compatibility issues._
 
-For analyzing APPI images and time lapse plant acquisition we recommend using the [Napari Roi Registration plugin], specifically developed to perform registration of regions-of-interests in time-lapse data. 
-![napari](https://github.com/micropolimi/APPI/raw/main/images/roi_registration.gif)
+---
 
+## ⚙️ Software Usage
+🚧 _Work in progress._ Stay tuned for updates!
 
-----------------------------------
-## Hardware components
+---
 
-Work in progress
+## 📊 Data Analysis
+For analyzing APPI datasets of growing plants, we recommend using the [Napari ROI Registration plugin]. This plugin is specifically designed for time-lapse registration of regions-of-interest.
 
+![Napari ROI Registration](https://github.com/micropolimi/APPI/raw/main/images/roi_registration.gif)
 
-----------------------------------
-## Hardware installation
+🔹 _Provides precise region tracking over time._  
+🔹 _Optimized for large datasets._  
+🔹 _Easy-to-use with Napari interface._
 
-Work in progress
+---
 
+## 🛠️ Hardware Components
+🚧 _Work in progress._
+
+---
+
+## 🏗️ Hardware Installation
+🚧 _Work in progress._
+
+---
+
+## 📬 Contribute & Support
+Have suggestions or issues? Feel free to [file an issue] or contribute to the project!
+
+🔗 **Useful Links:**
+- [Scope Foundry] - Imaging framework
+- [Scope Foundry Installation] - Step-by-step setup guide
+- [APPI Code] - Source files
+- [App] - Control software for imaging
+- [Napari ROI Registration Plugin] - Data analysis tool
 
 [Scope Foundry]: https://scopefoundry.org/
-[Scope Foundry_installation]: https://scopefoundry.org/docs/1_getting-started/
-[file an issue]: https://github.com/andreabassi78/napari-sim-processor/issues
+[Scope Foundry installation]: https://scopefoundry.org/docs/1_getting-started/
+[file an issue]: https://github.com/micropolimi/APPI/issues
 [Appi code]: https://github.com/micropolimi/APPI/raw/main/src
 [App]: https://github.com/micropolimi/APPI/raw/main/src/plant_app.py
 [Napari Roi Registration plugin]: https://www.napari-hub.org/plugins/napari-roi-registration
