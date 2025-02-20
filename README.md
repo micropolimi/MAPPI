@@ -52,7 +52,7 @@ For analyzing APPI datasets of growing plants, we recommend using the [Napari RO
 ## License
 
 Distributed under the terms of the [BSD-3] license,
-"appi" is free and open source software
+the APPI code is free and open source software
 
 ---
 
