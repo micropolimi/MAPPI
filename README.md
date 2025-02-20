@@ -1,7 +1,8 @@
 # APPI
+[![License](https://img.shields.io/pypi/l/napari-psf-simulator.svg?color=green)](https://github.com/micropolimi/APPI/raw/main/LICENSE)
 Open software and open hardware for the Adult Plant Projection Imaging project
 
-## Installation
+## Software Installation
 The control software for the APPI project is based on [Scope Foundry]. 
 To get started we recommend following the [Scope Foundry installation] guidelines.
 
