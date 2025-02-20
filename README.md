@@ -14,12 +14,25 @@ The [APPI code] runs cameras, LEDs and triggers with a decicated [App].
 ----------------------------------
 ## Software Usage
 
+Work in progress
+
 ----------------------------------
 ## Data Analysis
+
 For analyzing APPI images and time lapse plant acquisition we recommend using the [Napari Roi Registration plugin] 
 ![napari](https://github.com/micropolimi/APPI/raw/main/images/napari.png)
-----------------------------------
 
+
+----------------------------------
+## Hardware components
+
+Work in progress
+
+
+----------------------------------
+## Hardware installation
+
+Work in progress
 
 
 [Scope Foundry]: https://scopefoundry.org/
