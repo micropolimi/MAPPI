@@ -12,7 +12,7 @@ APPI (Adult Plant Projection Imaging) is an open-source project dedicated to adv
 ✅ Automated data analysis with region-of-interest (ROI) registration.
 ✅ Hardware integration for multiview plant growth monitoring.
 
-**Explore our repository and contribute to the project!**
+**Explore our repository and contribute to the project**
 
 ---
 
