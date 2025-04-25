@@ -27,9 +27,9 @@ The control software for APPI is based on [Scope Foundry]. To set up the python 
 ---
 
 ## 📊 Data Analysis
-For analyzing APPI datasets of growing plants, we recommend using the [Napari ROI Registration plugin]. This plugin is specifically designed for time-lapse registration of regions-of-interest.
+For analyzing APPI datasets of growing plants, we recommend using the [napari ROI Registration plugin]. This plugin is specifically designed for time-lapse registration of regions-of-interest.
 
-![Napari ROI Registration](https://github.com/micropolimi/APPI/raw/main/images/roi_registration.gif)
+![napari ROI Registration](https://github.com/micropolimi/APPI/raw/main/images/roi_registration.gif)
 
 🔹 _Provides precise region tracking over time._   
 🔹 _Easy-to-use with Napari interface._
@@ -65,12 +65,12 @@ Have suggestions or issues? Feel free to [file an issue] or contribute to the pr
 - [Scope Foundry] - Imaging framework
 - [Scope Foundry Installation] - Step-by-step setup guide
 - [APPI Code] - Source files
-- [Napari ROI Registration Plugin] - Data analysis tool
+- [napari ROI Registration Plugin] - Data analysis tool
 
 [Scope Foundry]: https://scopefoundry.org/
 [Scope Foundry installation]: https://scopefoundry.org/docs/1_getting-started/
 [file an issue]: https://github.com/micropolimi/APPI/issues
 [Appi code]: https://github.com/micropolimi/APPI/raw/main/src
 [App]: https://github.com/micropolimi/APPI/raw/main/src/plant_app.py
-[Napari Roi Registration plugin]: https://www.napari-hub.org/plugins/napari-roi-registration
+[napari Roi Registration plugin]: https://www.napari-hub.org/plugins/napari-roi-registration
 [BSD-3]: http://opensource.org/licenses/BSD-3-Clause
