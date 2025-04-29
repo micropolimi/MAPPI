@@ -29,14 +29,14 @@ By running the *plant_app* script, a new window appears on the screen, allowing 
 1) **Time Lapse Number**: Number of time points to be acquired.
 2) **Waiting Time**: Sampling time between one time point and the following one.
 3) **X - Y LED**: While not measuring, by ticking the checkbox, the selected LED can be turned on or off. Facilitates accurate positioning of the sample prior to measurement. 
-4) **View: Enables switching from one view to another.
+4) **View**: Enables switching from one view to another.
 5) **Acquisition Time**: Exposure time. Using 4), select the appropriate channel and set the exposure time. The exposure time can differ between channels X and Y.
-6) **AutoRange and AutoLevels**: When unchecked, the boxes allow the user to manually define the displayed portion of the Field of View and the limits for the grayscale levels.
+6) **AutoRange** and **AutoLevels**: When unchecked, the boxes allow the user to manually define the displayed portion of the Field of View and the limits for the grayscale levels.
 7)**Save H5**: When the checkbox is checked, pressing the Start button will save a new acquisition. 
-8)**Start** and **Interrupt**: These two buttons enables to start and stop the measurment respectively.
-9)**Save Dr**: Saving Directory.
-10)**Sample**: Name of the file that will be saved.
-11)**State bar**: The bar displays the percentage of completed acquisitions.
+8) **Start** and **Interrupt**: These two buttons enables to start and stop the measurment respectively.
+9) **Save Dr**: Saving Directory.
+10) **Sample**: Name of the file that will be saved.
+11) **State bar**: The bar displays the percentage of completed acquisitions.
 
 ---
 
