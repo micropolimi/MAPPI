@@ -32,7 +32,7 @@ By running the *plant_app* script, a new window appears on the screen, allowing 
 4) **View**: Enables switching from one view to another.
 5) **Acquisition Time**: Exposure time. Use 4) to select the appropriate channel and set the exposure time. Exposure time may differ between channels X and Y.
 6) **AutoRange** and **AutoLevels**: When unchecked, these boxes allow the user to manually define the displayed portion of the Field of View and and set the grayscale level limits.
-7)**Save H5**: When this checkbox is checked, pressing the Start button will save a new acquisition. 
+7) **Save H5**: When this checkbox is checked, pressing the Start button will save a new acquisition. 
 8) **Start** and **Interrupt**: These two buttons start and stop the measurment respectively.
 9) **Save Dr**: Directory where data will be saved.
 10) **Sample**: Name of the file to be saved.
