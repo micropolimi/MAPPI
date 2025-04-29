@@ -22,6 +22,7 @@ The control software for APPI is based on [Scope Foundry]. To set up the python 
 ---
 
 ## ⚙️ Software Usage
+![software GUI](https://github.com/micropolimi/APPI/raw/main/images/APPI_GUI.png)
 🚧 _Work in progress._ 
 
 ---
