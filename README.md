@@ -12,7 +12,7 @@ APPI (Adult Plant Projection Imaging) is an open-source project dedicated to adv
 ✅ Automated data analysis with region-of-interest (ROI) registration.
 ✅ Hardware integration for multiview plant growth monitoring.
 
-<img src="https://github.com/micropolimi/APPI/raw/main/images/setup_total.jpg" width="300">
+<img src="https://github.com/micropolimi/APPI/raw/main/images/setup_total.jpg" width="500">
 ---
 
 ## 🖥️ Software Installation
@@ -25,7 +25,7 @@ The control software for APPI is based on [Scope Foundry]. To set up the python 
 ## ⚙️ Software Usage
 By running the *plant_app* script, a new window appears on the screen, allowing control of the APPI system. All acquisition parameters can be configured through the *Console* widget, located above the canvas. A detailed description of the options offered by the *Console* is provided below.
 
-![software GUI](https://github.com/micropolimi/APPI/raw/main/images/APPI_GUI.png)
+<img src="https://github.com/micropolimi/APPI/raw/main/images/APPI_GUI.png">
 
 1) **Time Lapse Number**: Number of time points to be acquired.
 2) **Waiting Time**: Time interval between consecutive time points.
@@ -44,7 +44,7 @@ By running the *plant_app* script, a new window appears on the screen, allowing 
 ## 📊 Data Analysis
 For analyzing APPI datasets of growing plants, we recommend using the [napari ROI Registration plugin]. This plugin is specifically designed for time-lapse registration of regions-of-interest.
 
-![napari ROI Registration](https://github.com/micropolimi/APPI/raw/main/images/roi_registration.gif)
+<img src="https://github.com/micropolimi/APPI/raw/main/images/roi_registration.gif" width="500">
 
 🔹 _Provides precise region tracking over time._   
 🔹 _Easy-to-use with napari interface._
