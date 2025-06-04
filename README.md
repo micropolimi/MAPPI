@@ -90,3 +90,4 @@ Have suggestions or issues? Feel free to [file an issue] or contribute to the pr
 [napari Roi Registration plugin]: https://www.napari-hub.org/plugins/napari-roi-registration
 [BSD-3]: http://opensource.org/licenses/BSD-3-Clause
 [here]: https://github.com/micropolimi/APPI/blob/main/docs/hardware.md
+[link]: https://github.com/micropolimi/APPI/blob/main/docs/components.md
