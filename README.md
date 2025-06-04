@@ -52,7 +52,7 @@ For analyzing APPI datasets of growing plants, we recommend using the [napari RO
 ---
 
 ## 🛠️ Hardware Components
-A list of all the components necessary to reproduce the APPI platform is available at the following link.
+A list of all the components necessary to reproduce the APPI platform is available at the following [link].
 
 ---
 
