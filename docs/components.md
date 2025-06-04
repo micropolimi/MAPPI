@@ -2,30 +2,30 @@
 
 | Component part number | Image | Provider | Description | Quantity | Unit |
 |-----------|-----------|-----------|-----------|-----------|-----------|
-|[MVL16M1]|<img src="https://github.com/micropolimi/APPI/raw/main/images/objective.jpeg" width="300"/>|Thorlabs|16 mm EFL, f/1.4, for 1" C-Mount Format Cameras, with Lock |2| H/V arm|
-|B-P Filter|<img src="https://github.com/micropolimi/APPI/raw/main/images/bp_filter.jpeg" width="300"/>|-----------|-----------|-----------|-----------|
-|[SM2L05]|-----------|-----------|-----------|-----------|-----------|
-|3D-printed filter holder|-----------|-----------|-----------|-----------|-----------|
-|Camera|-----------|Teledyne flir|-----------|2|-----------|
+|[MVL16M1]|<img src="https://github.com/micropolimi/APPI/raw/main/images/objective.jpeg" width="300"/>|Thorlabs|16 mm EFL, f/1.4, for 1" C-Mount Format Cameras, with Lock|2|Detection Unit|
+|B-P Filter|<img src="https://github.com/micropolimi/APPI/raw/main/images/bp_filter.jpeg" width="300"/>|-----------|-----------|-----------|Detection Unit|
+|[SM2L05]|<img src="https://github.com/micropolimi/APPI/raw/main/images/SM2L05.jpeg" width="300"/>|-----------|-----------|-----------|Detection Unit|
+|3D-printed filter holder|<img src="https://github.com/micropolimi/APPI/raw/main/images/3D_printed_holder.jpeg" width="300"/>|Custom made|-----------|2|Detection Unit|
+|Camera|<img src="https://github.com/micropolimi/APPI/raw/main/images/camera.jpeg" width="300"/>|Teledyne flir|-----------|2|Detection Unit|
 |Post Holder (7.5 cm)|-----------|-----------|-----------|-----------|-----------|
 |Clamping Fork|-----------|-----------|-----------|-----------|-----------|
 |Post Holder (7.5 cm)|-----------|-----------|-----------|-----------|-----------|
 |[Base Adapter]|-----------|Thorlabs|BE1/M - Ø31.8 mm Studded Pedestal Base Adapter, M6 Threads|-----------|-----------|
-|[SM2L15]|-----------|Thorlabs|SM2L15 - SM2 Lens Tube, 1.5" Thread Depth, One Retaining Ring Included|2|-----------|
-|[SM2L20]|-----------|Thorlabs|SM2L20 - SM2 Lens Tube, 2" Thread Depth, One Retaining Ring Included|2|-----------|
-|[SM1A2]|-----------|Thorlabs|SM1A2 - Adapter with External SM1 Threads and Internal SM2 Threads|2|-----------|
-|[AC508-075-A-ML]|-----------|Thorlabs|f=75 mm, Ø2" Achromatic Doublet, SM2-Threaded Mount, ARC: 400-700 nm|2|-----------|
-|[LCP33/M]|-----------|Thorlabs|30 mm to 60 mm Cage Plate Adapter, M4 Tap|2|Filter Unit|
+|[SM2L15]|<img src="https://github.com/micropolimi/APPI/raw/main/images/SM2L15.jpeg" width="300"/>|Thorlabs|SM2L15 - SM2 Lens Tube, 1.5" Thread Depth, One Retaining Ring Included|2|H/V arm|
+|[SM2L20]|<img src="https://github.com/micropolimi/APPI/raw/main/images/SM2L20.jpeg" width="300"/>|Thorlabs|SM2L20 - SM2 Lens Tube, 2" Thread Depth, One Retaining Ring Included|2|H/V arm|
+|[SM1A2]|<img src="https://github.com/micropolimi/APPI/raw/main/images/SM1A2.jpeg" width="300"/>|Thorlabs|SM1A2 - Adapter with External SM1 Threads and Internal SM2 Threads|2|-----------|
+|[AC508-075-A-ML]|<img src="https://github.com/micropolimi/APPI/raw/main/images/lens.jpeg" width="300"/>|Thorlabs|f=75 mm, Ø2" Achromatic Doublet, SM2-Threaded Mount, ARC: 400-700 nm|2|H/V arm|
+|[LCP33/M]|<img src="https://github.com/micropolimi/APPI/raw/main/images/LCP33/M].jpeg" width="300"/>|Thorlabs|30 mm to 60 mm Cage Plate Adapter, M4 Tap|2|Filter Unit|
 |[FESH0500]|<img src="https://github.com/micropolimi/APPI/raw/main/images/SP_filter.jpeg" width="300"/>|Thorlabs|Ø25.0 mm Shortpass Filter, Cut-Off Wavelength: 500 nm|2|Filter Unit|
-|[XT66C4]|<img src="https://github.com/micropolimi/APPI/raw/main/images/XT66C4.jpeg" width="300"/>|Thorlabs|Clamping Platform for 66 mm Rails, 1/4" Counterbored Slot, 40 mm Long |5|-----------|
-|[LCP34/M]|-----------|Thorlabs|LCP34/M - 60 mm Cage Plate, SM2 Threads, 0.5" Thick, M4 Tap (Two SM2RR Retaining Rings Included)|2|Lens Unit|
+|[XT66C4]|<img src="https://github.com/micropolimi/APPI/raw/main/images/XT66C4.jpeg" width="300"/>|Thorlabs|Clamping Platform for 66 mm Rails, 1/4" Counterbored Slot, 40 mm Long|5|-----------|
+|[LCP34/M]|<img src="https://github.com/micropolimi/APPI/raw/main/images/LCP34/M.jpeg" width="300"/>|Thorlabs|LCP34/M - 60 mm Cage Plate, SM2 Threads, 0.5" Thick, M4 Tap (Two SM2RR Retaining Rings Included)|2|Lens Unit|
 |Post Holder (5 cm)|-----------|-----------|-----------|-----------|-----------|
-|[LCP50D]|-----------|Thorlabs|60 mm Cage System Iris Diaphragm (Ø2.0 - Ø50.0 mm)|2|LED Unit|
+|[LCP50D]|<img src="https://github.com/micropolimi/APPI/raw/main/images/LCP50D.jpeg" width="300"/>|Thorlabs|60 mm Cage System Iris Diaphragm (Ø2.0 - Ø50.0 mm)|2|LED Unit|
 |[SOLIS-470C]|-----------|Thorlabs|High-Power LED for Microscopy, 470 nm (Blue), 3.0 W (Min)|2|LED Unit|
 |[DC20]|-----------|Thorlabs|High-Power Driver for Solis® LEDs, 10 A Max, 14.0 V Max|2|LED Unit|
-|[ER8-P4]|-----------|Thorlabs|Cage Assembly Rod, 8" Long, Ø6 mm, 4 Pack|2|LED Unit|
-|[LCP36]|-----------|Thorlabs|60 mm Cage Plate with Ø2.2" (Ø56.0 mm) Double Bore for SM2 Lens Tube Mounting|2|LED Unit|
-|Unknown|-----------|-----------|-----------|2|LED Unit|
+|[ER8-P4]|<img src="https://github.com/micropolimi/APPI/raw/main/images/rod.jpeg" width="300"/>|Thorlabs|Cage Assembly Rod, 8" Long, Ø6 mm, 4 Pack|2|LED Unit|
+|[LCP36]|<img src="https://github.com/micropolimi/APPI/raw/main/images/LCP36.jpeg" width="300"/>|Thorlabs|60 mm Cage Plate with Ø2.2" (Ø56.0 mm) Double Bore for SM2 Lens Tube Mounting|2|LED Unit|
+|Unknown|<img src="https://github.com/micropolimi/APPI/raw/main/images/unknown.jpeg" width="300"/>|-----------|-----------|2|LED Unit|
 |[XT66SD-500]|-----------|Thorlabs|66 mm Single Dovetail Rail with Mounting Counterbores, L = 500 mm|1|H arm|
 [XT66P1]|<img src="https://github.com/micropolimi/APPI/raw/main/images/XT66P1.jpeg" width="300"/>|Thorlabs|Vertical Mounting Plate for 34 mm & 66 mm Optical Rails|1|V arm|
 |[XT66-100]|-----------|Thorlabs|66 mm Construction Rail, L = 100 mm|1|V arm|
