@@ -1,8 +1,8 @@
 # List of components
 
-| Component part number | Provider | Description | Quantity |
+| Component part number | Image | Provider | Description | Quantity | Unit |
 |-----------|-----------|-----------|-----------|
-|[MVL16M1]|Thorlabs|16 mm EFL, f/1.4, for 1" C-Mount Format Cameras, with Lock |2|
+|[MVL16M1]|<img src="https://github.com/micropolimi/APPI/raw/main/images/LED_unit.png">|Thorlabs|16 mm EFL, f/1.4, for 1" C-Mount Format Cameras, with Lock |2|
 |BP Filter|-----------|-----------|-----------|
 |[SM2L05]|-----------|-----------|-----------|
 |3D-printed filter holder|-----------|-----------|-----------|
@@ -15,6 +15,11 @@
 |[SM2L20]|Thorlabs|SM2L20 - SM2 Lens Tube, 2" Thread Depth, One Retaining Ring Included|2|
 |[SM1A2]|Thorlabs|SM1A2 - Adapter with External SM1 Threads and Internal SM2 Threads|2|
 |[AC508-075-A-ML]|Thorlabs|f=75 mm, Ø2" Achromatic Doublet, SM2-Threaded Mount, ARC: 400-700 nm|2|
+|-----------|-----------|-----------|-----------|
+|-----------|-----------|-----------|-----------|
+|-----------|-----------|-----------|-----------|
+|-----------|-----------|-----------|-----------|
+|-----------|-----------|-----------|-----------|
 |-----------|-----------|-----------|-----------|
 |-----------|-----------|-----------|-----------|
 |-----------|-----------|-----------|-----------|
