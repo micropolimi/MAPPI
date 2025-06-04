@@ -16,8 +16,8 @@
 |[SM1A2]|-----------|Thorlabs|SM1A2 - Adapter with External SM1 Threads and Internal SM2 Threads|2|-----------|
 |[AC508-075-A-ML]|-----------|Thorlabs|f=75 mm, Ø2" Achromatic Doublet, SM2-Threaded Mount, ARC: 400-700 nm|2|-----------|
 |[LCP33/M]|-----------|Thorlabs|30 mm to 60 mm Cage Plate Adapter, M4 Tap|2|Filter Unit|
-|[FESH0500]|-----------|Thorlabs|Ø25.0 mm Shortpass Filter, Cut-Off Wavelength: 500 nm|2|Filter Unit|
-|[XT66C4]|-----------|Thorlabs|Clamping Platform for 66 mm Rails, 1/4" Counterbored Slot, 40 mm Long |5|-----------|
+|[FESH0500]|<img src="https://github.com/micropolimi/APPI/raw/main/images/SP_filter.jpeg" width="300"/>|Thorlabs|Ø25.0 mm Shortpass Filter, Cut-Off Wavelength: 500 nm|2|Filter Unit|
+|[XT66C4]|<img src="https://github.com/micropolimi/APPI/raw/main/images/XT66C4.jpeg" width="300"/>|Thorlabs|Clamping Platform for 66 mm Rails, 1/4" Counterbored Slot, 40 mm Long |5|-----------|
 |[LCP34/M]|-----------|Thorlabs|LCP34/M - 60 mm Cage Plate, SM2 Threads, 0.5" Thick, M4 Tap (Two SM2RR Retaining Rings Included)|2|Lens Unit|
 |Post Holder (5 cm)|-----------|-----------|-----------|-----------|-----------|
 |[LCP50D]|-----------|Thorlabs|60 mm Cage System Iris Diaphragm (Ø2.0 - Ø50.0 mm)|2|LED Unit|
@@ -27,11 +27,11 @@
 |[LCP36]|-----------|Thorlabs|60 mm Cage Plate with Ø2.2" (Ø56.0 mm) Double Bore for SM2 Lens Tube Mounting|2|LED Unit|
 |Unknown|-----------|-----------|-----------|2|LED Unit|
 |[XT66SD-500]|-----------|Thorlabs|66 mm Single Dovetail Rail with Mounting Counterbores, L = 500 mm|1|H arm|
-[XT66P1]||Thorlabs|Vertical Mounting Plate for 34 mm & 66 mm Optical Rails|1|V arm|
+[XT66P1]|<img src="https://github.com/micropolimi/APPI/raw/main/images/XT66P1.jpeg" width="300"/>|Thorlabs|Vertical Mounting Plate for 34 mm & 66 mm Optical Rails|1|V arm|
 |[XT66-100]|-----------|Thorlabs|66 mm Construction Rail, L = 100 mm|1|V arm|
-|[XT66C2]|-----------|Thorlabs|40 mm Long Double Dovetail Clamp for 66 mm Rails |2|V arm|
-|[XT66DP-500]|-----------|Thorlabs|66 mm Double Dovetail Rail, L = 500 mm|1|V arm|
-|[XT66CB]|-----------|Thorlabs|Cross Bracket for 66 mm Rails|1|V arm|
+|[XT66C2]|<img src="https://github.com/micropolimi/APPI/raw/main/images/XT66C2.jpeg" width="300"/>|Thorlabs|40 mm Long Double Dovetail Clamp for 66 mm Rails |2|V arm|
+|[XT66DP-500]|<img src="https://github.com/micropolimi/APPI/raw/main/images/XT66DP-500.jpeg" width="300"/>|Thorlabs|66 mm Double Dovetail Rail, L = 500 mm|1|V arm|
+|[XT66CB]|<img src="https://github.com/micropolimi/APPI/raw/main/images/XT66CB.jpeg" width="300"/>|Thorlabs|Cross Bracket for 66 mm Rails|1|V arm|
 |DLP-IO8-G|-----------|Digikey|MODULE DATA-ACQUISITION 8-CH|2|H/V arm|
 
 
