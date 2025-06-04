@@ -13,7 +13,7 @@ APPI (Adult Plant Projection Imaging) is an open-source project dedicated to adv
 ✅ Hardware integration for multiview plant growth monitoring.
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/setup_total.jpg" width="500">
----
+
 
 ## 🖥️ Software Installation
 The control software for APPI is based on [Scope Foundry]. To set up the python environment and install the software:
@@ -52,7 +52,7 @@ For analyzing APPI datasets of growing plants, we recommend using the [napari RO
 ---
 
 ## 🛠️ Hardware Components
-🚧 _Work in progress._
+A list of all the components necessary to reproduce the APPI platform is available at the following link.
 
 ---
 
