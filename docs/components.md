@@ -2,8 +2,8 @@
 
 | Component part number | Image | Provider | Description | Quantity | Unit |
 |-----------|-----------|-----------|-----------|-----------|-----------|
-|[MVL16M1]|<img src="https://github.com/micropolimi/APPI/raw/main/images/objective.jpeg" width="150"/>|Thorlabs|16 mm EFL, f/1.4, for 1" C-Mount Format Cameras, with Lock |2| H/V arm|
-|B-P Filter|-----------|-----------|-----------|-----------|-----------|
+|[MVL16M1]|<img src="https://github.com/micropolimi/APPI/raw/main/images/objective.jpeg" width="300"/>|Thorlabs|16 mm EFL, f/1.4, for 1" C-Mount Format Cameras, with Lock |2| H/V arm|
+|B-P Filter|<img src="https://github.com/micropolimi/APPI/raw/main/images/bp_filter.jpeg" width="300"/>|-----------|-----------|-----------|-----------|
 |[SM2L05]|-----------|-----------|-----------|-----------|-----------|
 |3D-printed filter holder|-----------|-----------|-----------|-----------|-----------|
 |Camera|-----------|Teledyne flir|-----------|2|-----------|
@@ -27,6 +27,13 @@
 |[LCP36]|-----------|Thorlabs|60 mm Cage Plate with Ø2.2" (Ø56.0 mm) Double Bore for SM2 Lens Tube Mounting|2|LED Unit|
 |Unknown|-----------|-----------|-----------|2|LED Unit|
 |[XT66SD-500]|-----------|Thorlabs|66 mm Single Dovetail Rail with Mounting Counterbores, L = 500 mm|1|H arm|
+[XT66P1]||Thorlabs|Vertical Mounting Plate for 34 mm & 66 mm Optical Rails|1|V arm|
+|[XT66-100]|-----------|Thorlabs|66 mm Construction Rail, L = 100 mm|1|V arm|
+|[XT66C2]|-----------|Thorlabs|40 mm Long Double Dovetail Clamp for 66 mm Rails |2|V arm|
+|[XT66DP-500]|-----------|Thorlabs|66 mm Double Dovetail Rail, L = 500 mm|1|V arm|
+|[XT66CB]|-----------|Thorlabs|Cross Bracket for 66 mm Rails|1|V arm|
+|DLP-IO8-G|-----------|Digikey|MODULE DATA-ACQUISITION 8-CH|2|H/V arm|
+
 
 
 
@@ -47,3 +54,8 @@
 [ER8-P4]: https://www.thorlabs.com/thorproduct.cfm?partnumber=ER8-P4
 [LCP36]: https://www.thorlabs.de/thorproduct.cfm?partnumber=LCP36
 [XT66SD-500]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66SD-500
+[XT66P1]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66P1
+[XT66-100]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66-100
+[XT66C2]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66C2
+[XT66DP-500]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66DP-500
+[XT66CB]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66CB
