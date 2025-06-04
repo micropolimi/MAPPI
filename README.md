@@ -57,7 +57,7 @@ A list of all the components necessary to reproduce the APPI platform is availab
 ---
 
 ## 🏗️ Hardware Installation
-🚧 _Work in progress._
+The APPI setup can be efficiently replicated by following the detailed step-by-step guide available [here].
 
 ---
 
@@ -89,3 +89,4 @@ Have suggestions or issues? Feel free to [file an issue] or contribute to the pr
 [App]: https://github.com/micropolimi/APPI/raw/main/src/plant_app.py
 [napari Roi Registration plugin]: https://www.napari-hub.org/plugins/napari-roi-registration
 [BSD-3]: http://opensource.org/licenses/BSD-3-Clause
+[here]: https://github.com/micropolimi/APPI/blob/main/docs/hardware.md
