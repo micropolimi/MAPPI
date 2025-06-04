@@ -2,7 +2,7 @@
 
 | Component part number | Image | Provider | Description | Quantity | Unit |
 |-----------|-----------|-----------|-----------|
-|[MVL16M1]|<img src="https://github.com/micropolimi/APPI/raw/main/images/LED_unit.png">|Thorlabs|16 mm EFL, f/1.4, for 1" C-Mount Format Cameras, with Lock |2|
+|[MVL16M1]|![objective](https://github.com/micropolimi/APPI/raw/main/images/objective.jpeg)|Thorlabs|16 mm EFL, f/1.4, for 1" C-Mount Format Cameras, with Lock |2|
 |BP Filter|-----------|-----------|-----------|
 |[SM2L05]|-----------|-----------|-----------|
 |3D-printed filter holder|-----------|-----------|-----------|
