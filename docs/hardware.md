@@ -24,9 +24,19 @@ Take the clamping platform ([XT66C4], 1) and mount the 5 cm post holder on top o
 
 ### Step 2: assemble the horizontal arm
 
-Mount the horizontal rail ([XT66SD-500], 1) onto the breadboard. Pay close attention to positioning, ensuring that there is sufficient space on the breadboard to place the sample 45 cm away from the last lens once the entire setup is assembled. Fix the lens unit onto the rail (2). At this stage, the exact position of the lens unit along the rail is not critical. Once the entire illumination unit is complete, it can be precisely positioned along the rail thanks to the movable clamping platforms. Next, add the LED unit (3), followed by the filter unit (4). The LED, lens, and filter units are connected using rods. You can now screw the lens ([AC508-075-A-ML]) onto the lens unit. The distance between the iris mounted on the LED unit and the center of the lens must be approximetely 9 cm. As a result, the lens will create an enlarged image of the homogeneous illumination plane formed at the iris, located 45 cm away. The most effective way to correctly adjust the distance between the iris and the lens is to temporarily remove the filter unit from the rail and observe how the illumination plane behaves at a distance of 45 cm from the lens, while adjusting the position of the LED unit relative to the lens unit. The optimal position is the one that maximizes the homogeneity of the illumination at 45 cm. Open and close the iris aperture to ensure that the homogeneity of the illumination plane is not dependent from the iris aperture. Mount the [SM2L15] tube onto the lens (5). Once you are satisfied with the positioning of the LED to respect to lens you can add again the filter unit to the rail. The filter unit should be positioned in the focal plane of the lens where the image of the LED source (four emitters) is created (see image below). Identify this point in the optical path and fix there the filter unit. Add the [SM1A2] to the filter unit (7). This will block the filter in its cage. Mount the [SM2L20] tube onto the SM1A2 (8).The illumination unit is complete. 
+Mount the horizontal rail ([XT66SD-500], 1) onto the breadboard. Pay close attention to positioning, ensuring that there is sufficient space on the breadboard to place the sample 45 cm away from the last lens once the entire setup is assembled. Fix the lens unit onto the rail (2). At this stage, the exact position of the lens unit along the rail is not critical. Once the entire illumination unit is complete, it can be precisely positioned along the rail thanks to the movable clamping platforms. Next, add the LED unit (3), followed by the filter unit (4). The LED, lens, and filter units are connected using rods. You can now screw the lens ([AC508-075-A-ML]) onto the lens unit (5). The distance between the iris mounted on the LED unit and the center of the lens must be approximetely 9 cm. As a result, the lens will create an enlarged image of the homogeneous illumination plane formed at the iris, located 45 cm away. The most effective way to correctly adjust the distance between the iris and the lens is to temporarily remove the filter unit from the rail and observe how the illumination plane behaves at a distance of 45 cm from the lens, while adjusting the position of the LED unit relative to the lens unit. The optimal position is the one that maximizes the homogeneity of the illumination at 45 cm. Open and close the iris aperture to ensure that the homogeneity of the illumination plane does not depend on the iris aperture. Mount the [SM2L15] tube onto lens (6).
 
-<img src="https://github.com/micropolimi/APPI/raw/main/images/horiz_panel.png">
+<img src="https://github.com/micropolimi/APPI/raw/main/images/h_panel_1.png">
+
+Once you are satisfied with the positioning of the LED relative to the lens, you can reattach the filter unit to the rail. The filter unit should be positioned at the focal plane of the lens, where the image of the LED source (four emitters) is formed (see image below). Identify this point along the optical path and fix the filter unit in place.
+
+<img src="https://github.com/micropolimi/APPI/raw/main/images/4_emitters.png">
+
+Add the [SM1A2] to the filter unit (7). This will secure the filter within its cage. Mount the [SM2L20] tube onto the SM1A2 (8). The illumination unit is now complete. You can adjust its position on the rail and place it in its final location.
+
+<img src="https://github.com/micropolimi/APPI/raw/main/images/h_panel_2.png">
+
+Mount the base adapter ([BE1]) and the post holder, and secure them to the breadboard using a clamp (9). Insert the rod (10) and screw the camera onto it (11). You can now connect the camera (12). Mount the objective onto the camera (13), add the 3D-printed support for the filter (14), and then screw in the [SM2L05] tube containing the mounted band-pass filter (15). The horizontal arm of the APPI setup is now complete. 
 
 ## Vertical arm
 
@@ -52,3 +62,5 @@ Mount the horizontal rail ([XT66SD-500], 1) onto the breadboard. Pay close atten
 [SM2L15]: https://www.thorlabs.com/thorproduct.cfm?partnumber=SM2L15
 [SM1A2]: https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1A2
 [SM2L20]: https://www.thorlabs.com/thorproduct.cfm?partnumber=SM2L20
+[BE1]: https://www.thorlabs.com/thorproduct.cfm?partnumber=BE1/M#ad-image-0
+[SM2L05]: https://www.thorlabs.com/thorproduct.cfm?partnumber=SM2L05
