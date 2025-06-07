@@ -30,7 +30,7 @@ Mount the horizontal rail ([XT66SD-500], 1) onto the breadboard. Pay close atten
 
 Once you are satisfied with the positioning of the LED relative to the lens, you can reattach the filter unit to the rail. The filter unit should be positioned at the focal plane of the lens, where the image of the LED source (four emitters) is formed (see image below). Identify this point along the optical path and fix the filter unit in place.
 
-<img src="https://github.com/micropolimi/APPI/raw/main/images/4_emitters.png">
+<img src="https://github.com/micropolimi/APPI/raw/main/images/4_emitters.jpeg">
 
 Add the [SM1A2] to the filter unit (7). This will secure the filter within its cage. Mount the [SM2L20] tube onto the SM1A2 (8). The illumination unit is now complete. You can adjust its position on the rail and place it in its final location.
 
