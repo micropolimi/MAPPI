@@ -30,13 +30,15 @@ Mount the horizontal rail ([XT66SD-500], 1) onto the breadboard. Pay close atten
 
 Once you are satisfied with the positioning of the LED relative to the lens, you can reattach the filter unit to the rail. The filter unit should be positioned at the focal plane of the lens, where the image of the LED source (four emitters) is formed (see image below). Identify this point along the optical path and fix the filter unit in place.
 
-<img src="https://github.com/micropolimi/APPI/raw/main/images/4_emitters.jpeg">
+<img src="https://github.com/micropolimi/APPI/raw/main/images/4_emitters.jpeg" width="400">
 
 Add the [SM1A2] to the filter unit (7). This will secure the filter within its cage. Mount the [SM2L20] tube onto the SM1A2 (8). The illumination unit is now complete. You can adjust its position on the rail and place it in its final location.
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/h_panel_2.png">
 
-Mount the base adapter ([BE1]) and the post holder, and secure them to the breadboard using a clamp (9). Insert the rod (10) and screw the camera onto it (11). You can now connect the camera (12). Mount the objective onto the camera (13), add the 3D-printed support for the filter (14), and then screw in the [SM2L05] tube containing the mounted band-pass filter (15). The horizontal arm of the APPI setup is now complete. 
+Mount the base adapter ([BE1]) and the post holder, and secure them to the breadboard using a clamp (9). Insert the rod (10) and screw the camera onto it (11). You can now connect the camera. Mount the objective onto the camera (12), add the 3D-printed support for the filter (13), and then screw in the [SM2L05] tube containing the mounted band-pass filter (14). The horizontal arm of the APPI setup is now complete. 
+
+<img src="https://github.com/micropolimi/APPI/raw/main/images/h_panel_3.png">
 
 ## Vertical arm
 
