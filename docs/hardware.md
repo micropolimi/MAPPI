@@ -30,7 +30,7 @@ Mount the horizontal rail ([XT66SD-500], 1) onto the breadboard. Pay close atten
 
 Once you are satisfied with the positioning of the LED relative to the lens, you can reattach the filter unit to the rail. The filter unit should be positioned at the focal plane of the lens, where the image of the LED source (four emitters) is formed (see image below). Identify this point along the optical path and fix the filter unit in place.
 
-<img src="https://github.com/micropolimi/APPI/raw/main/images/4_emitters.jpeg" width="400">
+<img src="https://github.com/micropolimi/APPI/raw/main/images/4_emitters.jpeg" width="300">
 
 Add the [SM1A2] to the filter unit (7). This will secure the filter within its cage. Mount the [SM2L20] tube onto the SM1A2 (8). The illumination unit is now complete. You can adjust its position on the rail and place it in its final location.
 
@@ -44,9 +44,16 @@ Mount the base adapter ([BE1]) and the post holder, and secure them to the bread
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/gif_vertical_arm_scaled.gif" width="500">
 
-### Step 1: camera unit
+### Step 1: camera and illumination units
+#### Camera unit
+For the vertical arm, the camera must be mounted on a clamping platform ([XT66C4]). Even when using the shorter screw, it is not possible to secure the camera directly to the platform because the threaded hole on the camera is too shallow. To resolve this, two metal rings should be used to increase the effective thickness, as shown in panel 1. Align the rings with the hole on the camera (2), then attach the camera to the clamping platform (3). You're camera unit is ready. Any other strategy to increase the thickness and fix the camera to the platform can be used. 
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/camera_unit.png">
+
+####Illumination unit
+The same instructions used to build the horizontal illumination unit should be followed to assemble the vertical one. The only difference lies in how the lens unit is mounted onto the clamping platform. In this case, the lens unit is secured to the clamping platform using a clamp (see figure below). This setup allows the vertical illumination unit to be slightly tilted rather than perfectly vertical. In this way, it is possible to illuminate the same area imaged by the camera while keeping the camera parallel to the sample plane. 
+
+<img src="https://github.com/micropolimi/APPI/raw/main/images/clamp_detail.png">
 
 ### Step 2: assemble the vertical arm
 
