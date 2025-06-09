@@ -8,7 +8,7 @@ This section presents a step-by-step guide to facilitate the replication of the 
 
 ### Step 1: LED, lens and filter units.
 #### LED unit
-Begin by taking the LED (1) and mounting the (Unknown) component onto it (2). Next, place the [LCP36] on top of the (Unknown) and insert and fix three rods ([ER8-P4], 3). Position the rods to minimize the portion which extends beyond the cage on the LED side. Using three rods instead of four will facilitate the installation of the subsequent components. Finally, mount the iris ([LCP50D]) in such a way that it remains easily accessible once the entire setup is assembled.
+Begin by taking the LED (1) and mounting the (Unknown) component onto it (2). Next, place the [LCP36] on top of the (Unknown) and insert and fix three rods ([ER8-P4], 3). Position the rods to minimize the portion which extends beyond the cage on the LED side. Using three rods instead of four will facilitate the installation of the subsequent components. Finally, mount the iris ([LCP50D]) in such a way that it remains easily accessible once the entire setup is assembled (4).
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/LED_unit.png">
 
@@ -24,7 +24,7 @@ Take the clamping platform ([XT66C4], 1) and mount the 5 cm post holder on top o
 
 ### Step 2: assemble the horizontal arm
 
-Mount the horizontal rail ([XT66SD-500], 1) onto the breadboard. Pay close attention to positioning, ensuring that there is sufficient space on the breadboard to place the sample 45 cm away from the last lens once the entire setup is assembled. Fix the lens unit onto the rail (2). At this stage, the exact position of the lens unit along the rail is not critical. Once the entire illumination unit is complete, it can be precisely positioned along the rail thanks to the movable clamping platforms. Next, add the LED unit (3), followed by the filter unit (4). The LED, lens, and filter units are connected using rods. You can now screw the lens ([AC508-075-A-ML]) onto the lens unit (5). The distance between the iris mounted on the LED unit and the center of the lens must be approximetely 9 cm. As a result, the lens will create an enlarged image of the homogeneous illumination plane formed at the iris, located 45 cm away. The most effective way to correctly adjust the distance between the iris and the lens is to temporarily remove the filter unit from the rail and observe how the illumination plane behaves at a distance of 45 cm from the lens, while adjusting the position of the LED unit relative to the lens unit. The optimal position is the one that maximizes the homogeneity of the illumination at 45 cm. Open and close the iris aperture to ensure that the homogeneity of the illumination plane does not depend on the iris aperture. Mount the [SM2L15] tube onto lens (6).
+Mount the horizontal rail ([XT66SD-500], 1) onto the breadboard. Pay close attention to positioning, ensuring that there is sufficient space on the breadboard to place the sample 45 cm away from the last lens once the entire setup is assembled. Fix the lens unit onto the rail (2). At this stage, the exact position of the lens unit along the rail is not critical. Once the entire illumination unit is complete, it can be precisely positioned along the rail thanks to the movable clamping platforms. Next, add the LED unit (3), followed by the filter unit (4). The LED, lens, and filter units are connected using rods. You can now screw the lens ([AC508-075-A-ML]) onto the lens unit (5). The distance between the iris mounted on the LED unit and the center of the lens must be approximetely 9 cm. As a result, the lens will create an enlarged image of the homogeneous illumination plane formed at the iris, located 45 cm away. The most effective way to adjust the distance between the iris and the lens is to temporarily remove the filter unit from the rail and observe how the illumination plane behaves at a distance of 45 cm from the lens, while adjusting the position of the LED unit relative to the lens unit. The optimal position is the one that maximizes the homogeneity of the illumination at 45 cm. Open and close the iris aperture to ensure that the homogeneity of the illumination plane does not depend on the iris aperture. Mount the [SM2L15] tube onto lens (6).
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/h_panel_1.png">
 
@@ -50,12 +50,14 @@ For the vertical arm, the camera must be mounted on a clamping platform ([XT66C4
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/camera_unit.png">
 
-####Illumination unit
+#### Illumination unit
 The same instructions used to build the horizontal illumination unit should be followed to assemble the vertical one. The only difference lies in how the lens unit is mounted onto the clamping platform. In this case, the lens unit is secured to the clamping platform using a clamp (see figure below). This setup allows the vertical illumination unit to be slightly tilted rather than perfectly vertical. In this way, it is possible to illuminate the same area imaged by the camera while keeping the camera parallel to the sample plane. 
 
-<img src="https://github.com/micropolimi/APPI/raw/main/images/clamp_detail.jpg">
+<img src="https://github.com/micropolimi/APPI/raw/main/images/clamp_detail.jpg" width="300">
 
 ### Step 2: assemble the vertical arm
+
+<img src="https://github.com/micropolimi/APPI/raw/main/images/v_panel.png">
 
 [link]: https://github.com/micropolimi/APPI/blob/main/docs/components.md
 [LCP36]: https://www.thorlabs.de/thorproduct.cfm?partnumber=LCP36

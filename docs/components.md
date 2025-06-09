@@ -32,7 +32,7 @@
 |[XT66C2]|<img src="https://github.com/micropolimi/APPI/raw/main/images/XT66C2.jpeg" width="300"/>|Thorlabs|40 mm Long Double Dovetail Clamp for 66 mm Rails |2|V arm|
 |[XT66DP-500]|<img src="https://github.com/micropolimi/APPI/raw/main/images/XT66DP-500.jpeg" width="300"/>|Thorlabs|66 mm Double Dovetail Rail, L = 500 mm|1|V arm|
 |[XT66CB]|<img src="https://github.com/micropolimi/APPI/raw/main/images/XT66CB.jpeg" width="300"/>|Thorlabs|Cross Bracket for 66 mm Rails|1|V arm|
-|[DLP-IO8-G]||Digikey|MODULE DATA-ACQUISITION 8-CH|2|H/V arm|
+|[DLP-IO8-G]|<img src="https://github.com/micropolimi/APPI/raw/main/images/DLP.jfif" width="300"/>|Digikey|MODULE DATA-ACQUISITION 8-CH|2|H/V arm|
 
 
 
