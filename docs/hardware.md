@@ -56,6 +56,8 @@ The same instructions used to build the horizontal illumination unit should be f
 <img src="https://github.com/micropolimi/APPI/raw/main/images/clamp_detail.jpg" width="300">
 
 ### Step 2: assemble the vertical arm
+Mount the vertical shaft ([XT66-100]) using the vertical mounting plate ([XT66P1]), and cover the lower part of the shaft with a black cloth to avoid unwanted light reflections during measurements (1). Mount the illumination unit on one side of the shaft using the clamping platforms (2). Adjust the height of the illumination unit along the shaft according to the sample dimensions, maintaining a distance of 45 cm between the last lens and the sample.
+Mount one of the two double dovetail clamps ([XT66C2]) on another side of the shaft (3), specifically on the side where the horizontal arm of the APPI platform is located. Attach the cross bracket ([XT66CB]) to the double dovetail clamp (4), then mount the second XT66C2 onto the cross bracket (5). Add the rail ([XT66DP-500]) that will hold the camera vertically above the sample (6). Mount the camera unit onto this rail, near the LED (7). Finally, screw the objective (already fitted with the filter) onto the camera, and connect the camera (8).
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/v_panel.png">
 
@@ -74,3 +76,8 @@ The same instructions used to build the horizontal illumination unit should be f
 [SM2L20]: https://www.thorlabs.com/thorproduct.cfm?partnumber=SM2L20
 [BE1]: https://www.thorlabs.com/thorproduct.cfm?partnumber=BE1/M#ad-image-0
 [SM2L05]: https://www.thorlabs.com/thorproduct.cfm?partnumber=SM2L05
+[XT66-100]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66-100
+[XT66P1]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66P1
+[XT66C2]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66C2
+[XT66CB]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66CB
+[XT66DP-500]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66DP-500
