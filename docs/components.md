@@ -5,8 +5,8 @@
 |[MVL16M1]|<img src="https://github.com/micropolimi/APPI/raw/main/images/objective.jpeg" width="300"/>|Thorlabs|16 mm EFL, f/1.4, for 1" C-Mount Format Cameras, with Lock|2|Detection Unit|526,87 €|
 |B-P Filter|<img src="https://github.com/micropolimi/APPI/raw/main/images/bp_filter.jpeg" width="300"/>||||Detection Unit||
 |[SM2L05]|<img src="https://github.com/micropolimi/APPI/raw/main/images/SM2L05.jpeg" width="300"/>|Thorlabs|SM2L05 - SM2 Lens Tube, 0.5" Thread Depth, One Retaining Ring Included|2|Detection Unit|27,64 €|
-|3D-printed filter holder|<img src="https://github.com/micropolimi/APPI/raw/main/images/3D_printed_holder.jpeg" width="300"/>|Custom made||2|Detection Unit|-|
-|Camera|<img src="https://github.com/micropolimi/APPI/raw/main/images/camera.jpeg" width="300"/>|Teledyne flir||2|Detection Unit||
+|3D-printed filter holder|<img src="https://github.com/micropolimi/APPI/raw/main/images/3D_printed_holder.jpeg" width="300"/>|Custom made|3D-printed adapter for direct filter mounting on the objective|2|Detection Unit| - |
+|[camera]|<img src="https://github.com/micropolimi/APPI/raw/main/images/camera.jpeg" width="300"/>|Teledyne flir||2|Detection Unit|1.180 €|
 |Post Holder (5 cm)|<img src="https://github.com/micropolimi/APPI/raw/main/images/post_holder_5cm.jpeg" width="300"/>||||||
 |Clamping Fork|<img src="https://github.com/micropolimi/APPI/raw/main/images/clamp.jpeg" width="300"/>||||||
 |Post Holder (7.5 cm)|<img src="https://github.com/micropolimi/APPI/raw/main/images/post_holder_75mm.jpeg" width="300"/>||||||
@@ -26,9 +26,9 @@
 |[ER8-P4]|<img src="https://github.com/micropolimi/APPI/raw/main/images/rod.jpeg" width="300"/>|Thorlabs|Cage Assembly Rod, 8" Long, Ø6 mm, 4 Pack|2|LED Unit|46,77 €|
 |[LCP36]|<img src="https://github.com/micropolimi/APPI/raw/main/images/LCP36.jpeg" width="300"/>|Thorlabs|60 mm Cage Plate with Ø2.2" (Ø56.0 mm) Double Bore for SM2 Lens Tube Mounting|2|LED Unit|48,80 €|
 |Unknown|<img src="https://github.com/micropolimi/APPI/raw/main/images/unknown.jpeg" width="300"/>|||2|LED Unit||
-|[XT66SD-500]||Thorlabs|66 mm Single Dovetail Rail with Mounting Counterbores, L = 500 mm|1|H arm|92,87 €|
+|[XT66SD-500]|<img src="https://github.com/micropolimi/APPI/raw/main/images/h_rail.png" width="300"/>|Thorlabs|66 mm Single Dovetail Rail with Mounting Counterbores, L = 500 mm|1|H arm|92,87 €|
 [XT66P1]|<img src="https://github.com/micropolimi/APPI/raw/main/images/XT66P1.jpeg" width="300"/>|Thorlabs|Vertical Mounting Plate for 34 mm & 66 mm Optical Rails|1|V arm|41,02 €|
-|[XT66-100]||Thorlabs|66 mm Construction Rail, L = 100 mm|1|V arm|45,84 €|
+|[XT66-100]|<img src="https://github.com/micropolimi/APPI/raw/main/images/v_rail.png" width="300"/>|Thorlabs|66 mm Construction Rail, L = 100 mm|1|V arm|45,84 €|
 |[XT66C2]|<img src="https://github.com/micropolimi/APPI/raw/main/images/XT66C2.jpeg" width="300"/>|Thorlabs|40 mm Long Double Dovetail Clamp for 66 mm Rails |2|V arm|24,91 €|
 |[XT66DP-500]|<img src="https://github.com/micropolimi/APPI/raw/main/images/XT66DP-500.jpeg" width="300"/>|Thorlabs|66 mm Double Dovetail Rail, L = 500 mm|1|V arm|52,00 €|
 |[XT66CB]|<img src="https://github.com/micropolimi/APPI/raw/main/images/XT66CB.jpeg" width="300"/>|Thorlabs|Cross Bracket for 66 mm Rails|1|V arm|24,03 €|
@@ -38,6 +38,7 @@
 
 
 [MVL16M1]: https://www.thorlabs.com/thorproduct.cfm?partnumber=MVL16M1
+[camera]: https://www.edmundoptics.com/p/gs3-u3-23s6m-c-112-grasshopper-usb-30-monochrome-camera/30859/?srsltid=AfmBOorgGA4qURt1MUEX6npKVQvNj9JN4Xeg2ji8dISV6lKLkqam0VKo
 [SM2L05]: https://www.thorlabs.com/thorproduct.cfm?partnumber=SM2L05
 [Base Adapter]: https://www.thorlabs.com/thorproduct.cfm?partnumber=BE1/M#ad-image-0
 [SM2L15]: https://www.thorlabs.com/thorproduct.cfm?partnumber=SM2L15
