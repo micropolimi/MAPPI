@@ -6,10 +6,11 @@
 |B-P Filter|<img src="https://github.com/micropolimi/APPI/raw/main/images/bp_filter.jpeg" width="300"/>||||Detection Unit||
 |[SM2L05]|<img src="https://github.com/micropolimi/APPI/raw/main/images/SM2L05.jpeg" width="300"/>|Thorlabs|SM2L05 - SM2 Lens Tube, 0.5" Thread Depth, One Retaining Ring Included|2|Detection Unit|27,64 €|
 |3D-printed filter holder|<img src="https://github.com/micropolimi/APPI/raw/main/images/3D_printed_holder.jpeg" width="300"/>|Custom made|3D-printed adapter for direct filter mounting on the objective|2|Detection Unit| - |
-|[camera]|<img src="https://github.com/micropolimi/APPI/raw/main/images/camera.jpeg" width="300"/>|Teledyne flir||2|Detection Unit|1.180 €|
-|Post Holder (5 cm)|<img src="https://github.com/micropolimi/APPI/raw/main/images/post_holder_5cm.jpeg" width="300"/>||||||
-|Clamping Fork|<img src="https://github.com/micropolimi/APPI/raw/main/images/clamp.jpeg" width="300"/>||||||
-|Post Holder (7.5 cm)|<img src="https://github.com/micropolimi/APPI/raw/main/images/post_holder_75mm.jpeg" width="300"/>||||||
+|[camera]|<img src="https://github.com/micropolimi/APPI/raw/main/images/camera.jpeg" width="300"/>|Edmund optics|GS3-U3-23S6M-C 1/1.2" FLIR Grasshopper®3 High Performance USB 3.0 Monochrome Camera|2|Detection Unit|1.180 €|
+|[Post]||Thorlabs|TR75/M - Ø12.7 mm Optical Post, SS, M4 Setscrew, M6 Tap, L = 75 mm|||5,98 €|
+|[Post Holder (5 cm)]|<img src="https://github.com/micropolimi/APPI/raw/main/images/post_holder_5cm.jpeg" width="300"/>|Thorlabs|PH50/M - Ø12.7 mm Post Holder, Spring-Loaded Hex-Locking Thumbscrew, L=50 mm|||8,71 €|
+|Clamping Fork|<img src="https://github.com/micropolimi/APPI/raw/main/images/clamp.jpeg" width="300"/>|Thorlabs|||||
+|[Post Holder (75 mm)]|<img src="https://github.com/micropolimi/APPI/raw/main/images/post_holder_75mm.jpeg" width="300"/>|Thorlabs|PH75/M - Ø12.7 mm Post Holder, Spring-Loaded Hex-Locking Thumbscrew, L=75 mm|||9,35 €|
 |[Base Adapter]|<img src="https://github.com/micropolimi/APPI/raw/main/images/base.jpeg" width="300"/>|Thorlabs|BE1/M - Ø31.8 mm Studded Pedestal Base Adapter, M6 Threads|||10,54 €|
 |[SM2L15]|<img src="https://github.com/micropolimi/APPI/raw/main/images/SM2L15.jpeg" width="300"/>|Thorlabs|SM2L15 - SM2 Lens Tube, 1.5" Thread Depth, One Retaining Ring Included|2|H/V arm|33,11 €|
 |[SM2L20]|<img src="https://github.com/micropolimi/APPI/raw/main/images/SM2L20.jpeg" width="300"/>|Thorlabs|SM2L20 - SM2 Lens Tube, 2" Thread Depth, One Retaining Ring Included|2|H/V arm|33,66 €|
@@ -61,3 +62,6 @@
 [XT66DP-500]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66DP-500
 [XT66CB]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66CB
 [DLP-IO8-G]: https://www.digikey.it/it/products/detail/dlp-design-inc/DLP-IO8-G/1894342?srsltid=AfmBOoqvVOwYxHuHpJSF3m7O9RoCRNmlyDs33HVKx05vl_OZmSEpEhbu
+[Post Holder (50 mm)]: https://www.thorlabs.com/thorproduct.cfm?partnumber=PH50/M#ad-image-0
+[Post Holder (75 mm)]: https://www.thorlabs.com/thorproduct.cfm?partnumber=PH75/M#ad-image-0
+[Post]: https://www.thorlabs.com/thorproduct.cfm?partnumber=TR75/M
