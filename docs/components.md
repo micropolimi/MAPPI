@@ -3,24 +3,23 @@
 | Component | Image | Provider | Description | Quantity | Unit | Price of a single item |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 |[MVL16M1]|<img src="https://github.com/micropolimi/APPI/raw/main/images/objective.jpeg" width="300"/>|Thorlabs|16 mm EFL, f/1.4, for 1" C-Mount Format Cameras, with Lock|2|Detection Unit|526,87 €|
-|B-P Filter|<img src="https://github.com/micropolimi/APPI/raw/main/images/bp_filter.jpeg" width="300"/>||||Detection Unit||
+|B-P Filter|<img src="https://github.com/micropolimi/APPI/raw/main/images/bp_filter.jpeg" width="300"/>|||2|Detection Unit||
 |[SM2L05]|<img src="https://github.com/micropolimi/APPI/raw/main/images/SM2L05.jpeg" width="300"/>|Thorlabs|SM2L05 - SM2 Lens Tube, 0.5" Thread Depth, One Retaining Ring Included|2|Detection Unit|27,64 €|
 |3D-printed filter holder|<img src="https://github.com/micropolimi/APPI/raw/main/images/3D_printed_holder.jpeg" width="300"/>|Custom made|3D-printed adapter for direct filter mounting on the objective|2|Detection Unit| - |
 |[camera]|<img src="https://github.com/micropolimi/APPI/raw/main/images/camera.jpeg" width="300"/>|Edmund optics|GS3-U3-23S6M-C 1/1.2" FLIR Grasshopper®3 High Performance USB 3.0 Monochrome Camera|2|Detection Unit|1.180 €|
-|[Post]|<img src="https://github.com/micropolimi/APPI/raw/main/images/post.jpeg" width="300"/>|Thorlabs|TR75/M - Ø12.7 mm Optical Post, SS, M4 Setscrew, M6 Tap, L = 75 mm|||5,98 €|
-|[Post Holder (5 cm)]|<img src="https://github.com/micropolimi/APPI/raw/main/images/post_holder_5cm.jpeg" width="300"/>|Thorlabs|PH50/M - Ø12.7 mm Post Holder, Spring-Loaded Hex-Locking Thumbscrew, L=50 mm|||8,71 €|
-|Clamping Fork|<img src="https://github.com/micropolimi/APPI/raw/main/images/clamp.jpeg" width="300"/>|Thorlabs|||||
+|[Post]|<img src="https://github.com/micropolimi/APPI/raw/main/images/post.jpeg" width="300"/>|Thorlabs|TR75/M - Ø12.7 mm Optical Post, SS, M4 Setscrew, M6 Tap, L = 75 mm|5|H/V arm|5,98 €|
+|[Post Holder (50 mm)]|<img src="https://github.com/micropolimi/APPI/raw/main/images/post_holder_5cm.jpeg" width="300"/>|Thorlabs|PH50/M - Ø12.7 mm Post Holder, Spring-Loaded Hex-Locking Thumbscrew, L=50 mm|||8,71 €|
+|Clamping Fork|<img src="https://github.com/micropolimi/APPI/raw/main/images/clamp.jpeg" width="300"/>|Thorlabs||2|H detection unit/V lens unit||
 |[Post Holder (75 mm)]|<img src="https://github.com/micropolimi/APPI/raw/main/images/post_holder_75mm.jpeg" width="300"/>|Thorlabs|PH75/M - Ø12.7 mm Post Holder, Spring-Loaded Hex-Locking Thumbscrew, L=75 mm|||9,35 €|
-|[Base Adapter]|<img src="https://github.com/micropolimi/APPI/raw/main/images/base.jpeg" width="300"/>|Thorlabs|BE1/M - Ø31.8 mm Studded Pedestal Base Adapter, M6 Threads|||10,54 €|
+|[Base Adapter]|<img src="https://github.com/micropolimi/APPI/raw/main/images/base.jpeg" width="300"/>|Thorlabs|BE1/M - Ø31.8 mm Studded Pedestal Base Adapter, M6 Threads|2|H detection unit/V lens unit|10,54 €|
 |[SM2L15]|<img src="https://github.com/micropolimi/APPI/raw/main/images/SM2L15.jpeg" width="300"/>|Thorlabs|SM2L15 - SM2 Lens Tube, 1.5" Thread Depth, One Retaining Ring Included|2|H/V arm|33,11 €|
 |[SM2L20]|<img src="https://github.com/micropolimi/APPI/raw/main/images/SM2L20.jpeg" width="300"/>|Thorlabs|SM2L20 - SM2 Lens Tube, 2" Thread Depth, One Retaining Ring Included|2|H/V arm|33,66 €|
-|[SM1A2]|<img src="https://github.com/micropolimi/APPI/raw/main/images/SM1A2.jpeg" width="300"/>|Thorlabs|SM1A2 - Adapter with External SM1 Threads and Internal SM2 Threads|2||27,62 €|
+|[SM1A2]|<img src="https://github.com/micropolimi/APPI/raw/main/images/SM1A2.jpeg" width="300"/>|Thorlabs|SM1A2 - Adapter with External SM1 Threads and Internal SM2 Threads|2|H/V arm|27,62 €|
 |[AC508-075-A-ML]|<img src="https://github.com/micropolimi/APPI/raw/main/images/lens.jpeg" width="300"/>|Thorlabs|f=75 mm, Ø2" Achromatic Doublet, SM2-Threaded Mount, ARC: 400-700 nm|2|H/V arm|176,77 €|
 |[LCP33/M]|<img src="https://github.com/micropolimi/APPI/raw/main/images/LCP33M.jpeg" width="300"/>|Thorlabs|30 mm to 60 mm Cage Plate Adapter, M4 Tap|2|Filter Unit|45,06 €|
 |[FESH0500]|<img src="https://github.com/micropolimi/APPI/raw/main/images/SP_filter.jpeg" width="300"/>|Thorlabs|Ø25.0 mm Shortpass Filter, Cut-Off Wavelength: 500 nm|2|Filter Unit|153,86 €|
-|[XT66C4]|<img src="https://github.com/micropolimi/APPI/raw/main/images/XT66C4.jpeg" width="300"/>|Thorlabs|Clamping Platform for 66 mm Rails, 1/4" Counterbored Slot, 40 mm Long|5||32,35 €|
+|[XT66C4]|<img src="https://github.com/micropolimi/APPI/raw/main/images/XT66C4.jpeg" width="300"/>|Thorlabs|Clamping Platform for 66 mm Rails, 1/4" Counterbored Slot, 40 mm Long|5|H/V arm|32,35 €|
 |[LCP34/M]|<img src="https://github.com/micropolimi/APPI/raw/main/images/LCP34M.jpeg" width="300"/>|Thorlabs|LCP34/M - 60 mm Cage Plate, SM2 Threads, 0.5" Thick, M4 Tap (Two SM2RR Retaining Rings Included)|2|Lens Unit|43,91 €|
-|Post Holder (5 cm)|||||||
 |[LCP50D]|<img src="https://github.com/micropolimi/APPI/raw/main/images/LCP50D.jpeg" width="300"/>|Thorlabs|60 mm Cage System Iris Diaphragm (Ø2.0 - Ø50.0 mm)|2|LED Unit|219,53 €|
 |[SOLIS-470C]|<img src="https://github.com/micropolimi/APPI/raw/main/images/LED.jpg" width="300"/>|Thorlabs|High-Power LED for Microscopy, 470 nm (Blue), 3.0 W (Min)|2|LED Unit|1.424,19 €|
 |[DC20]|<img src="https://github.com/micropolimi/APPI/raw/main/images/DC20.jpg" width="300"/>|Thorlabs|High-Power Driver for Solis® LEDs, 10 A Max, 14.0 V Max|2|LED Unit|560,71 €|

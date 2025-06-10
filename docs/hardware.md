@@ -13,12 +13,12 @@ Begin by taking the LED (1) and mounting the (Unknown) component onto it (2). Ne
 <img src="https://github.com/micropolimi/APPI/raw/main/images/LED_unit.png">
 
 #### Lens unit
-Take the clamping platform ([XT66C4], 1) and mount the 5 cm post holder on top of it (2). Then add the [...] (3), and finally mount the cage that will hold the lens ([LCP34/M], 4).
+Take the clamping platform ([XT66C4], 1) and mount the [5 cm post holder] on top of it (2). Then add the [post] (3), and finally mount the cage that will hold the lens ([LCP34/M], 4).
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/lens_unit.png">
 
 #### Filter unit
-Take the clamping platform ([XT66C4], 1) and mount the 5 cm post holder on top of it (2). Add the [...] (3), and then mount the cage that will be used to hold the short-pass filter ([LCP33/M], 4). Finally, insert the filter into the [LCP33/M]. No retaining ring is required to secure the filter, as the [SM1A2] adapter will serve this function during the assembly of the entire horizontal arm.
+Take the clamping platform ([XT66C4], 1) and mount the [5 cm post holder] on top of it (2). Add the [post] (3), and then mount the cage that will be used to hold the short-pass filter ([LCP33/M], 4). Finally, insert the filter into the cage (5). No retaining ring is required to secure the filter, as the [SM1A2] adapter will serve this function during the assembly of the entire horizontal arm.
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/filter_unit.png">
 
@@ -36,7 +36,7 @@ Add the [SM1A2] to the filter unit (7). This will secure the filter within its c
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/h_panel_2.png">
 
-Mount the base adapter ([BE1]) and the post holder, and secure them to the breadboard using a clamp (9). Insert the rod (10) and screw the camera onto it (11). You can now connect the camera. Mount the objective onto the camera (12), add the 3D-printed support for the filter (13), and then screw in the [SM2L05] tube containing the mounted band-pass filter (14). The horizontal arm of the APPI setup is now complete. 
+Mount the the post holder onto the base adapter ([BE1]), and secure them to the breadboard using a clamp (9). Insert the [post] (10) and screw the camera onto it (11). You can now connect the camera. Mount the objective onto the camera (12), add the 3D-printed support for the filter (13), and then screw in the [SM2L05] tube containing the mounted band-pass filter (14). The horizontal arm of the APPI setup is now complete. 
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/h_panel_3.png">
 
@@ -51,13 +51,14 @@ For the vertical arm, the camera must be mounted on a clamping platform ([XT66C4
 <img src="https://github.com/micropolimi/APPI/raw/main/images/camera_unit.png">
 
 #### Illumination unit
-The same instructions used to build the horizontal illumination unit should be followed to assemble the vertical one. The only difference lies in how the lens unit is mounted onto the clamping platform. In this case, the lens unit is secured to the clamping platform using a clamp (see figure below). This setup allows the vertical illumination unit to be slightly tilted rather than perfectly vertical. In this way, it is possible to illuminate the same area imaged by the camera while keeping the camera parallel to the sample plane. 
+The same instructions used to build the horizontal illumination unit should be followed to assemble the vertical one. The only difference lies in how the lens unit is mounted onto the clamping platform. In this case, the lens unit is secured to the clamping platform using a clamp (see figure below). This configuration allows the vertical illumination unit to be slightly tilted rather than perfectly vertical. In this way, it is possible to illuminate the same area imaged by the camera while keeping the camera parallel to the sample plane. 
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/clamp_detail.jpg" width="300">
 
 ### Step 2: assemble the vertical arm
 Mount the vertical shaft ([XT66-100]) using the vertical mounting plate ([XT66P1]), and cover the lower part of the shaft with a black cloth to avoid unwanted light reflections during measurements (1). Mount the illumination unit on one side of the shaft using the clamping platforms (2). Adjust the height of the illumination unit along the shaft according to the sample dimensions, maintaining a distance of 45 cm between the last lens and the sample.
 Mount one of the two double dovetail clamps ([XT66C2]) on another side of the shaft (3), specifically on the side where the horizontal arm of the APPI platform is located. Attach the cross bracket ([XT66CB]) to the double dovetail clamp (4), then mount the second XT66C2 onto the cross bracket (5). Add the rail ([XT66DP-500]) that will hold the camera vertically above the sample (6). Mount the camera unit onto this rail, near the LED (7). Finally, screw the objective (already fitted with the filter) onto the camera, and connect the camera (8).
+Your APPI platform is now complete.
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/v_panel.png">
 
@@ -81,3 +82,5 @@ Mount one of the two double dovetail clamps ([XT66C2]) on another side of the sh
 [XT66C2]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66C2
 [XT66CB]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66CB
 [XT66DP-500]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66DP-500
+[post]: https://www.thorlabs.com/thorproduct.cfm?partnumber=TR75/M
+[5 cm post holder]: https://www.thorlabs.com/thorproduct.cfm?partnumber=PH50/M#ad-image-0
