@@ -8,9 +8,9 @@
 |3D-printed filter holder|<img src="https://github.com/micropolimi/APPI/raw/main/images/3D_printed_holder.jpeg" width="300"/>|Custom made|3D-printed adapter for direct filter mounting on the objective|2|Detection Unit| - |
 |[camera]|<img src="https://github.com/micropolimi/APPI/raw/main/images/camera.jpeg" width="300"/>|Edmund optics|GS3-U3-23S6M-C 1/1.2" FLIR Grasshopper®3 High Performance USB 3.0 Monochrome Camera|2|Detection Unit|1.180 €|
 |[Post]|<img src="https://github.com/micropolimi/APPI/raw/main/images/post.jpeg" width="300"/>|Thorlabs|TR75/M - Ø12.7 mm Optical Post, SS, M4 Setscrew, M6 Tap, L = 75 mm|5|H/V arm|5,98 €|
-|[Post Holder (50 mm)]|<img src="https://github.com/micropolimi/APPI/raw/main/images/post_holder_5cm.jpeg" width="300"/>|Thorlabs|PH50/M - Ø12.7 mm Post Holder, Spring-Loaded Hex-Locking Thumbscrew, L=50 mm|||8,71 €|
+|[Post Holder (50 mm)]|<img src="https://github.com/micropolimi/APPI/raw/main/images/post_holder_5cm.jpeg" width="300"/>|Thorlabs|PH50/M - Ø12.7 mm Post Holder, Spring-Loaded Hex-Locking Thumbscrew, L=50 mm|3|H/V arm|8,71 €|
 |Clamping Fork|<img src="https://github.com/micropolimi/APPI/raw/main/images/clamp.jpeg" width="300"/>|Thorlabs||2|H detection unit/V lens unit||
-|[Post Holder (75 mm)]|<img src="https://github.com/micropolimi/APPI/raw/main/images/post_holder_75mm.jpeg" width="300"/>|Thorlabs|PH75/M - Ø12.7 mm Post Holder, Spring-Loaded Hex-Locking Thumbscrew, L=75 mm|||9,35 €|
+|[Post Holder (75 mm)]|<img src="https://github.com/micropolimi/APPI/raw/main/images/post_holder_75mm.jpeg" width="300"/>|Thorlabs|PH75/M - Ø12.7 mm Post Holder, Spring-Loaded Hex-Locking Thumbscrew, L=75 mm|2|H/V arm|9,35 €|
 |[Base Adapter]|<img src="https://github.com/micropolimi/APPI/raw/main/images/base.jpeg" width="300"/>|Thorlabs|BE1/M - Ø31.8 mm Studded Pedestal Base Adapter, M6 Threads|2|H detection unit/V lens unit|10,54 €|
 |[SM2L15]|<img src="https://github.com/micropolimi/APPI/raw/main/images/SM2L15.jpeg" width="300"/>|Thorlabs|SM2L15 - SM2 Lens Tube, 1.5" Thread Depth, One Retaining Ring Included|2|H/V arm|33,11 €|
 |[SM2L20]|<img src="https://github.com/micropolimi/APPI/raw/main/images/SM2L20.jpeg" width="300"/>|Thorlabs|SM2L20 - SM2 Lens Tube, 2" Thread Depth, One Retaining Ring Included|2|H/V arm|33,66 €|
@@ -34,6 +34,9 @@
 |[XT66CB]|<img src="https://github.com/micropolimi/APPI/raw/main/images/XT66CB.jpeg" width="300"/>|Thorlabs|Cross Bracket for 66 mm Rails|1|V arm|24,03 €|
 |[DLP-IO8-G]|<img src="https://github.com/micropolimi/APPI/raw/main/images/DLP.jfif" width="300"/>|Digikey|MODULE DATA-ACQUISITION 8-CH|2|H/V arm|26,23 €|
 |Breadboard||Thorlabs||1|||
+|Table clamp||Thorlabs||2|V arm||
+|Double BNC cable|<img src="https://github.com/micropolimi/APPI/raw/main/images/BNC.jfif" width="300"/>|-||2|H/V arm|-|
+|1'' ring||Thorlabs||2|Filter unit||
 
 
 
