@@ -1,6 +1,6 @@
-# Build your own APPI platform
+# Build your own MAPPI platform
 
-This section presents a step-by-step guide to facilitate the replication of the APPI setup, using the components listed at the following [link].
+This section presents a step-by-step guide to facilitate the replication of the MAPPI setup, using the components listed at the following [link].
 
 ## Horizontal arm
 
@@ -36,7 +36,7 @@ Add the [SM1A2] to the filter unit (7). This will secure the filter within its c
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/h_panel_2.png">
 
-Mount the the post holder onto the base adapter ([BE1]), and secure them to the breadboard using a clamp (9). Insert the [post] (10) and screw the camera onto it (11). You can now connect the camera. Mount the objective onto the camera (12), add the 3D-printed support for the filter (13), and then screw in the [SM2L05] tube containing the mounted band-pass filter (14). The horizontal arm of the APPI setup is now complete. 
+Mount the the post holder onto the base adapter ([BE1]), and secure them to the breadboard using a clamp (9). Insert the [post] (10) and screw the camera onto it (11). You can now connect the camera. Mount the objective onto the camera (12), add the 3D-printed support for the filter (13), and then screw in the [SM2L05] tube containing the mounted band-pass filter (14). The horizontal arm of the MAPPI setup is now complete. 
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/h_panel_3.png">
 
@@ -57,8 +57,8 @@ The same instructions used to build the horizontal illumination unit should be f
 
 ### Step 2: assemble the vertical arm
 Mount the vertical shaft ([XT66-100]) using the vertical mounting plate ([XT66P1]), and cover the lower part of the shaft with a black cloth to avoid unwanted light reflections during measurements (1). Mount the illumination unit on one side of the shaft using the clamping platforms (2). Adjust the height of the illumination unit along the shaft according to the sample dimensions, maintaining a distance of 45 cm between the last lens and the sample.
-Mount one of the two double dovetail clamps ([XT66C2]) on another side of the shaft (3), specifically on the side where the horizontal arm of the APPI platform is located. Attach the cross bracket ([XT66CB]) to the double dovetail clamp (4), then mount the second XT66C2 onto the cross bracket (5). Add the rail ([XT66DP-500]) that will hold the camera vertically above the sample (6). Mount the camera unit onto this rail, near the LED (7). Finally, screw the objective (already fitted with the filter) onto the camera, and connect the camera (8).
-Your APPI platform is now complete.
+Mount one of the two double dovetail clamps ([XT66C2]) on another side of the shaft (3), specifically on the side where the horizontal arm of the MAPPI platform is located. Attach the cross bracket ([XT66CB]) to the double dovetail clamp (4), then mount the second XT66C2 onto the cross bracket (5). Add the rail ([XT66DP-500]) that will hold the camera vertically above the sample (6). Mount the camera unit onto this rail, near the LED (7). Finally, screw the objective (already fitted with the filter) onto the camera, and connect the camera (8).
+Your MAPPI platform is now complete.
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/v_panel.png">
 

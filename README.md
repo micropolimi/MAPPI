@@ -1,4 +1,4 @@
-# APPI - Adult Plant Projection Imaging
+# MAPPI - Macroscopic Plant Projection Imaging
 
 [![License](https://github.com/micropolimi/APPI/raw/main/images/licence_img.svg)](https://github.com/micropolimi/APPI/raw/main/LICENSE)
 
@@ -7,7 +7,7 @@
 ---
 
 ## 🌱 Overview
-APPI (Adult Plant Projection Imaging) is an open-source project dedicated to advanced imaging of growing plants. It provides tools for:
+MAPPI (Macroscopic Plant Projection Imaging) is an open-source project dedicated to advanced imaging of growing plants. It provides tools for:
 ✅ Software-controlled optical imaging using cameras and LEDs.
 ✅ Automated data analysis with region-of-interest (ROI) registration.
 ✅ Hardware integration for multiview plant growth monitoring.
@@ -16,14 +16,14 @@ APPI (Adult Plant Projection Imaging) is an open-source project dedicated to adv
 
 
 ## 🖥️ Software Installation
-The control software for APPI is based on [Scope Foundry]. To set up the python environment and install the software:
+The control software for MAPPI is based on [Scope Foundry]. To set up the python environment and install the software:
 1. Follow the [Scope Foundry installation] guidelines.
 2. Download or clone the [APPI code], which runs cameras, LEDs, and controls triggers with a dedicated [App].
 
 ---
 
 ## ⚙️ Software Usage
-By running the *plant_app* script, a new window appears on the screen, allowing control of the APPI system. All acquisition parameters can be configured through the *Console* widget, located above the canvas. A detailed description of the options offered by the *Console* is provided below.
+By running the *plant_app* script, a new window appears on the screen, allowing control of the MAPPI system. All acquisition parameters can be configured through the *Console* widget, located above the canvas. A detailed description of the options offered by the *Console* is provided below.
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/APPI_GUI.png">
 
@@ -42,7 +42,7 @@ By running the *plant_app* script, a new window appears on the screen, allowing 
 ---
 
 ## 📊 Data Analysis
-For analyzing APPI datasets of growing plants, we recommend using the [napari ROI Registration plugin]. This plugin is specifically designed for time-lapse registration of regions-of-interest.
+For analyzing MAPPI datasets of growing plants, we recommend using the [napari ROI Registration plugin]. This plugin is specifically designed for time-lapse registration of regions-of-interest.
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/roi_registration.gif" width="500">
 
@@ -57,7 +57,7 @@ A list of all the components necessary to reproduce the APPI platform is availab
 ---
 
 ## 🏗️ Hardware Installation
-The APPI setup can be efficiently replicated by following the detailed step-by-step guide available [here].
+The MAPPI setup can be efficiently replicated by following the detailed step-by-step guide available [here].
 
 ---
 
@@ -69,7 +69,7 @@ The APPI setup can be efficiently replicated by following the detailed step-by-s
 ## 🔓 License
 
 Distributed under the terms of the [BSD-3] license,
-the APPI code is free and open source software
+the MAPPI code is free and open source software
 
 ---
 
