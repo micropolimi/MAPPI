@@ -62,8 +62,10 @@ The MAPPI setup can be efficiently replicated by following the detailed step-by-
 ---
 
 ## 🔬 3D-printed imaging chambers
-Use MAPPI in combination with custom-made 3D-printed rhizoboxes to perform root imaging under near-physiological conditions.  
+Use MAPPI in combination with custom-made 3D-printed rhizoboxes to perform root imaging under near-physiological conditions. 
+
 <img src="https://github.com/micropolimi/APPI/raw/main/images/rhizoboxes.png" width="500">
+
 We provide detailed [instructions] to reproduce the rhizoboxes and all the equipment needed to perform reliable shoot-to-root and root-to-shoot experiments on macroscopic plants. All the necessary STL files for 3D printing the equipment are available in the following [folder].
 
 ## 🍃 Case study
@@ -97,4 +99,6 @@ Have suggestions or issues? Feel free to [file an issue] or contribute to the pr
 [here]: https://github.com/micropolimi/APPI/blob/main/docs/hardware.md
 [link]: https://github.com/micropolimi/APPI/blob/main/docs/components.md
 [instruction]:
+[folder]: https://github.com/micropolimi/APPI/tree/main/docs/STL_files
+[instructions]: https://github.com/micropolimi/APPI/blob/main/docs/3D_printing.md
 [folder]: https://github.com/micropolimi/APPI/tree/main/docs/STL_files
