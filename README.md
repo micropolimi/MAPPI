@@ -98,7 +98,5 @@ Have suggestions or issues? Feel free to [file an issue] or contribute to the pr
 [BSD-3]: http://opensource.org/licenses/BSD-3-Clause
 [here]: https://github.com/micropolimi/APPI/blob/main/docs/hardware.md
 [link]: https://github.com/micropolimi/APPI/blob/main/docs/components.md
-[instruction]:
 [folder]: https://github.com/micropolimi/APPI/tree/main/docs/STL_files
 [instructions]: https://github.com/micropolimi/APPI/blob/main/docs/3D_printing.md
-[folder]: https://github.com/micropolimi/APPI/tree/main/docs/STL_files
