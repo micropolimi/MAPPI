@@ -14,6 +14,7 @@ MAPPI (Macroscopic Plant Projection Imaging) is an open-source project dedicated
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/setup_total.jpg" width="500">
 
+---
 
 ## 🖥️ Software Installation
 The control software for MAPPI is based on [Scope Foundry]. To set up the python environment and install the software:
@@ -67,6 +68,8 @@ Use MAPPI in combination with custom-made 3D-printed rhizoboxes to perform root 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/rhizoboxes.png" width="500">
 
 We provide detailed [instructions] to reproduce the rhizoboxes and all the equipment needed to perform reliable shoot-to-root and root-to-shoot experiments on macroscopic plants. All the necessary STL files for 3D printing the equipment are available in the following [folder].
+
+---
 
 ## 🍃 Case study
 🚧 _Work in progress._ Stay tuned for updates!
