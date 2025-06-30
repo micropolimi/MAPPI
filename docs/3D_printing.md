@@ -9,19 +9,19 @@ Rhyzoboxes have been designed to allow plant growth in a classic soil mixture, w
 <img src="https://github.com/micropolimi/APPI/raw/main/images/3d_printed_rhizobozes.png">
 
 ### Printing parameters
-Nozzle: 0.4 mm
-Filament color: Black matte
-Filament material: PLA
-Printing temperature: 190 °C
-Build plate temperature: 60 °C (optional)
-Layer height/Resolution: 0.1-0.3 mm
-Wall thickness: 1 mm
-Top/Bottom thickness: 1 mm
-Infill density: 20%
-Infill pattern: unimportant
-Print speed: 80 mm/s
-Rafts: No
-Supports: No
+Nozzle: 0.4 mm  
+Filament color: Black matte  
+Filament material: PLA  
+Printing temperature: 190 °C  
+Build plate temperature: 60 °C (optional)  
+Layer height/Resolution: 0.1-0.3 mm  
+Wall thickness: 1 mm  
+Top/Bottom thickness: 1 mm  
+Infill density: 20%  
+Infill pattern: unimportant  
+Print speed: 80 mm/s  
+Rafts: No  
+Supports: No  
 
 ### Printing settings
 The material used is PLA due to its ease of print and accessibility, but being highly hygroscopic it could warp with time and constant watering, so other materials like PETG or ABS could be used to increase the resistance of the chamber to weathering. 
