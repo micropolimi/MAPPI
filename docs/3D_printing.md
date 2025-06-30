@@ -34,22 +34,22 @@ Printer technology: Fused Deposition Modeling (FDM) is preferable as stereolitho
 ## Submersion pot-holder setup
 The submersion pot-holder is an adapter for magenta boxes to fit and lock in place pots subject to submersion to prevent sample floating. The design does require supports for the locking groove of the pot-holder, meaning removal of said support is necessary. The holder is designed to be glued to the bottom of a magenta box with water resistant glue.
 
-<img src="https://github.com/micropolimi/APPI/raw/main/images/submersion.png" width="500">
+<img src="https://github.com/micropolimi/APPI/raw/main/images/submersion.png" width="700">
 
 ### Printing parameters
-Nozzle: 0.4 mm
-Filament color: Black matte
-Filament material: PLA
-Printing temperature: 190 °C
-Build plate temperature: 60 °C (optional)
-Layer height/Resolution: 0.1-0.3 mm
-Wall thickness: 1 mm
-Top/Bottom thickness: 1 mm
-Infill density: 100%
-Infill pattern: unimportant
-Print speed: 80 mm/s
-Rafts: No
-Supports: Yes
+Nozzle: 0.4 mm  
+Filament color: Black matte  
+Filament material: PLA  
+Printing temperature: 190 °C  
+Build plate temperature: 60 °C (optional)  
+Layer height/Resolution: 0.1-0.3 mm  
+Wall thickness: 1 mm  
+Top/Bottom thickness: 1 mm  
+Infill density: 100%  
+Infill pattern: unimportant  
+Print speed: 80 mm/s  
+Rafts: No  
+Supports: Yes  
 
 ### Printing settings
 The material used is PLA due to its ease of print and accessibility, but being highly hygroscopic it could warp with time and constant watering, so other materials like PETG or ABS could be used to increase the resistance of the chamber to weathering. 
@@ -61,22 +61,22 @@ The soil cover is designed to prevent soil spillage in the submergence solution.
 The design does require supports for part of the soil cover, meaning removal of said support is necessary. 
 The soil cover locks on top of classical 5 cm Ø pots around the plant main axis.
 
-<img src="https://github.com/micropolimi/APPI/raw/main/images/cover.png" width="500">
+<img src="https://github.com/micropolimi/APPI/raw/main/images/cover.png" width="700">
 
 ### Printing parameters
-Nozzle: 0.4 mm
-Filament color: Black matte
-Filament material: PLA
-Printing temperature: 190 °C
-Build plate temperature: 60 °C (optional)
-Layer height/Resolution: 0.1-0.3 mm
-Wall thickness: 1 mm
-Top/Bottom thickness: 1 mm
-Infill density: 100%
-Infill pattern: unimportant
-Print speed: 80 mm/s
-Rafts: No
-Supports: Yes
+Nozzle: 0.4 mm  
+Filament color: Black matte  
+Filament material: PLA  
+Printing temperature: 190 °C  
+Build plate temperature: 60 °C (optional)  
+Layer height/Resolution: 0.1-0.3 mm  
+Wall thickness: 1 mm  
+Top/Bottom thickness: 1 mm  
+Infill density: 100%  
+Infill pattern: unimportant  
+Print speed: 80 mm/s  
+Rafts: No  
+Supports: Yes  
 
 ### Printing settings
 The material used is PLA due to its ease of print and accessibility, but being highly hygroscopic it could warp with time and constant watering, so other materials like PETG or ABS could be used to increase the resistance of the chamber to weathering. 
@@ -88,22 +88,22 @@ For the soil cover, it is particularly important to use a black, and possibly ma
 The wounding tweezers have been designed to apply a similar pressure on different scales of wounded surface. Wounding tweezer n° 1 has a wounding area of around 40 mm^2, n° 2 of around 160 mm^2 and n°3 of around 380 mm^2.
 The design does not require supports. 
 
-<img src="https://github.com/micropolimi/APPI/raw/main/images/tweezers.png" width="300">
+<img src="https://github.com/micropolimi/APPI/raw/main/images/tweezers.png" width="500">
 
 ### Printing parameters
-Nozzle: 0.4 mm
-Filament color: Black matte
-Filament material: PLA
-Printing temperature: 190 °C
-Build plate temperature: 60 °C (optional)
-Layer height/Resolution: 0.1-0.3 mm
-Wall thickness: 1 mm
-Top/Bottom thickness: 1 mm
-Infill density: 100%
-Infill pattern: unimportant
-Print speed: 80 mm/s
-Rafts: No
-Supports: no
+Nozzle: 0.4 mm  
+Filament color: Black matte  
+Filament material: PLA  
+Printing temperature: 190 °C  
+Build plate temperature: 60 °C (optional)  
+Layer height/Resolution: 0.1-0.3 mm  
+Wall thickness: 1 mm  
+Top/Bottom thickness: 1 mm  
+Infill density: 100%  
+Infill pattern: unimportant  
+Print speed: 80 mm/s  
+Rafts: No  
+Supports: no  
 
 ### Printing settings
 The material used is PLA due to its ease of print and accessibility, but being highly hygroscopic it could warp with time and constant watering, so other materials like PETG or ABS could be used to increase the resistance of the chamber to weathering. 
@@ -114,22 +114,22 @@ Printer technology: For the tweezers Fused Deposition Modeling (FDM) or stereoli
 The light path barrier is an easy system to reduce crasstalk between the two orthogonal pathways.
 The design does require supports, meaning removal of said support is necessary. 
 
-<img src="https://github.com/micropolimi/APPI/raw/main/images/barrier.png" width="400">
+<img src="https://github.com/micropolimi/APPI/raw/main/images/barrier.png" width="700">
 
 ### Printing parameters
-Nozzle: 0.4 mm 
-Filament color: Black matte 
-Filament material: PLA 
-Printing temperature: 190 °C 
-Build plate temperature: 60 °C (optional) 
-Layer height/Resolution: 0.1-0.3 mm 
-Wall thickness: 1 mm 
-Top/Bottom thickness: 1 mm 
-Infill density: 100% 
-Infill pattern: unimportant 
-Print speed: 80 mm/s 
-Rafts: No 
-Supports: Yes 
+Nozzle: 0.4 mm  
+Filament color: Black matte  
+Filament material: PLA  
+Printing temperature: 190 °C  
+Build plate temperature: 60 °C (optional)  
+Layer height/Resolution: 0.1-0.3 mm  
+Wall thickness: 1 mm  
+Top/Bottom thickness: 1 mm   
+Infill density: 100%  
+Infill pattern: unimportant  
+Print speed: 80 mm/s  
+Rafts: No  
+Supports: Yes  
 
 ### Printing settings
 The material used is PLA due to its ease of print and accessibility.
