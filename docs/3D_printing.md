@@ -117,19 +117,19 @@ The design does require supports, meaning removal of said support is necessary.
 <img src="https://github.com/micropolimi/APPI/raw/main/images/barrier.png" width="400">
 
 ### Printing parameters
-Nozzle: 0.4 mm
-Filament color: Black matte
-Filament material: PLA
-Printing temperature: 190 °C
-Build plate temperature: 60 °C (optional)
-Layer height/Resolution: 0.1-0.3 mm
-Wall thickness: 1 mm
-Top/Bottom thickness: 1 mm
-Infill density: 100%
-Infill pattern: unimportant
-Print speed: 80 mm/s
-Rafts: No
-Supports: Yes
+Nozzle: 0.4 mm 
+Filament color: Black matte 
+Filament material: PLA 
+Printing temperature: 190 °C 
+Build plate temperature: 60 °C (optional) 
+Layer height/Resolution: 0.1-0.3 mm 
+Wall thickness: 1 mm 
+Top/Bottom thickness: 1 mm 
+Infill density: 100% 
+Infill pattern: unimportant 
+Print speed: 80 mm/s 
+Rafts: No 
+Supports: Yes 
 
 ### Printing settings
 The material used is PLA due to its ease of print and accessibility.
