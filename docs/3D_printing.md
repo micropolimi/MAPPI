@@ -24,9 +24,9 @@ Rafts: No
 Supports: No  
 
 ### Printing settings
-PLA is used as the primary material due to its ease of printing and wide availability. However, since PLA is highly hygroscopic, it may warp over time with constant exposure to moisture. For improved durability and resistance to weathering, alternative materials such as PETG or ABS are recommended.
-It is important to use a black, preferably matte, filament, as this significantly reduces background reflections under certain lighting conditions.
-While high print resolution is not essential, going any lower than 0.3 mm may result in a rough internal surface, which can negatively affect root development.
+PLA is used as the primary material due to its ease of printing and wide availability. However, since PLA is highly hygroscopic, it may warp over time with constant exposure to moisture. For improved durability and resistance to weathering, alternative materials such as PETG or ABS are recommended.  
+It is important to use a black, preferably matte, filament, as this significantly reduces background reflections under certain lighting conditions.  
+While high print resolution is not essential, going any lower than 0.3 mm may result in a rough internal surface, which can negatively affect root development.  
 To ensure a sturdy and potentially reusable main frame, an infill of at least 20% is recommended.
 
 Printer technology: Fused Deposition Modeling (FDM) is preferred, as stereolithography (SLA) resins are UV-absorbent and exhibit high fluorescence under blue-shifted excitation wavelengths.
@@ -52,7 +52,7 @@ Rafts: No
 Supports: Yes  
 
 ### Printing settings
-PLA is used as the primary material due to its ease of printing and wide availability. However, since PLA is highly hygroscopic, it may warp over time with constant exposure to moisture. For improved durability and resistance to weathering, alternative materials such as PETG or ABS are recommended.
+PLA is used as the primary material due to its ease of printing and wide availability. However, since PLA is highly hygroscopic, it may warp over time with constant exposure to moisture. For improved durability and resistance to weathering, alternative materials such as PETG or ABS are recommended.  
 While high print resolution is not essential, going any lower than 0.3 mm may result in a rough internal surface, which can negatively affect root development.
 
 Printer technology: For the pot-holder, both Fused Deposition Modeling (FDM) and stereolithography (SLA) are suitable, as the printed component will not be visible within the field of view during image acquisition. 
@@ -80,13 +80,13 @@ Rafts: No
 Supports: Yes  
 
 ### Printing settings
-PLA is used as the primary material due to its ease of printing and wide availability. However, since PLA is highly hygroscopic, it may warp over time with constant exposure to moisture. For improved durability and resistance to weathering, alternative materials such as PETG or ABS are recommended.
+PLA is used as the primary material due to its ease of printing and wide availability. However, since PLA is highly hygroscopic, it may warp over time with constant exposure to moisture. For improved durability and resistance to weathering, alternative materials such as PETG or ABS are recommended.  
 While high print resolution is not essential, going any lower than 0.3 mm may result in a rough internal surface, which can negatively affect root development.
 
 Printer technology: Since the soil cover will be visible in the field of view (FOV), Fused Deposition Modeling (FDM) is recommended. For this component, it is especially important to use a black, preferably matte, filament to minimize background reflections under certain lighting conditions.
 
 ## Wounding tweezers print and setup
-The wounding tweezers are designed to apply consistent pressure across different wound surface areas. Wounding tweezer n° 1 has a wounding area of approximately 40 mm^2, n° 2 around 160 mm^2, and n°3 around 380 mm^2.
+The wounding tweezers are designed to apply consistent pressure across different wound surface areas. Wounding tweezer n° 1 has a wounding area of approximately 40 mm<sup>2</sup>, n° 2 around 160 mm<sup>2</sup>, and n°3 around 380 mm<sup>2</sup>.
 The design does not require support structures for printing.
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/tweezers.png" width="500">
@@ -107,7 +107,7 @@ Rafts: No
 Supports: no  
 
 ### Printing settings
-PLA is used as the primary material due to its ease of printing and wide availability. However, since PLA is highly hygroscopic, it may warp over time with constant exposure to moisture. For improved durability and resistance to weathering, alternative materials such as PETG or ABS are recommended.
+PLA is used as the primary material due to its ease of printing and wide availability. However, since PLA is highly hygroscopic, it may warp over time with constant exposure to moisture. For improved durability and resistance to weathering, alternative materials such as PETG or ABS are recommended.  
 While high print resolution is not essential, going any lower than 0.3 mm may result in a rough internal surface, which can negatively affect root development.
 
 Printer technology: For the tweezers, both Fused Deposition Modeling (FDM) and stereolithography (SLA) are suitable, as the printed component will not be visible in the field of view (FOV) during image acquisition.
@@ -133,8 +133,8 @@ Rafts: No
 Supports: Yes  
 
 ### Printing settings
-PLA is used as the primary material due to its ease of printing and wide availability. However, since PLA is highly hygroscopic, it may warp over time with constant exposure to moisture. For improved durability and resistance to weathering, alternative materials such as PETG or ABS are recommended.
-It is important to use a black, preferably matte, filament, as this significantly reduces background reflections under certain lighting conditions.
+PLA is used as the primary material due to its ease of printing and wide availability. However, since PLA is highly hygroscopic, it may warp over time with constant exposure to moisture. For improved durability and resistance to weathering, alternative materials such as PETG or ABS are recommended.  
+It is important to use a black, preferably matte, filament, as this significantly reduces background reflections under certain lighting conditions.  
 While high print resolution is not essential, going any lower than 0.3 mm may result in a rough internal surface, which can negatively affect root development.
 
 Printer technology: Fused Deposition Modeling (FDM) is preferred, as stereolithography (SLA) resins are UV-absorbent and exhibit high fluorescence under blue-shifted excitation wavelengths.
