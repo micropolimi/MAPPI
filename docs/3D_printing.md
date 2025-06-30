@@ -4,7 +4,7 @@ This section is dedicated to 3D-printed equipment. Printing parameters and detai
 
 ## Rhizoboxes
 
-Rhyzoboxes have been designed to allow plant growth in a classic soil mixture, while still allowing direct access and imaging of aerial tissues and the root apparatus. The design does not require any support, leaving a 45° slope useful for tilting the chamber towards the front aperture, increasing root density in the direction of the imaging surface. The used imaging surface is a 2 mm thick transparent acrylic plastic cut to fit the lateral grooves of the open side of the rhyzobox. The Arabidopsis Rhyzobox is designed so that also classical non-frosted imaging glass slides (25 x 76 mm) could be used as imaging interface and fit in the appropriate side grooves.
+Rhyzoboxes are designed to support plant growth in a standard soil mixture while still providing direct access to and imaging of both aerial tissues and the root system. The design is self-supporting and features a 45° slope that tilts the chamber toward the front aperture, encouraging root growth toward the imaging surface. The imaging surface used is a 2 mm thick transparent acrylic sheet, cut to fit into the lateral grooves on the open side of the rhyzobox. The Arabidopsis rhyzobox is also compatible with standard non-frosted microscope glass slides (25 × 76 mm), which can be used as an imaging interface and fit into the corresponding side grooves.
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/3d_printed_rhizobozes.png">
 
@@ -24,15 +24,15 @@ Rafts: No
 Supports: No  
 
 ### Printing settings
-The material used is PLA due to its ease of print and accessibility, but being highly hygroscopic it could warp with time and constant watering, so other materials like PETG or ABS could be used to increase the resistance of the chamber to weathering. 
-It is still important to use a black, and possibly matte, filament as it will greatly decrease background reflection under certain light sources. 
-High print resolution is not fundamental but going any lower than 0.3 mm could make the internal printed surface gritty and cause abnormal root growth.
-To keep a sound and possibly reusable main frame, infill of at least 20% is suggested.
+PLA is used as the primary material due to its ease of printing and wide availability. However, since PLA is highly hygroscopic, it may warp over time with constant exposure to moisture. For improved durability and resistance to weathering, alternative materials such as PETG or ABS are recommended.
+It is important to use a black, preferably matte, filament, as this significantly reduces background reflections under certain lighting conditions.
+While high print resolution is not essential, going any lower than 0.3 mm may result in a rough internal surface, which can negatively affect root development.
+To ensure a sturdy and potentially reusable main frame, an infill of at least 20% is recommended.
 
-Printer technology: Fused Deposition Modeling (FDM) is preferable as stereolithography (SLA) uses UV-absorbent resins that have a high fluorescence to blue-shifted excitation wavelength.
+Printer technology: Fused Deposition Modeling (FDM) is preferred, as stereolithography (SLA) resins are UV-absorbent and exhibit high fluorescence under blue-shifted excitation wavelengths.
 
 ## Submersion pot-holder setup
-The submersion pot-holder is an adapter for magenta boxes to fit and lock in place pots subject to submersion to prevent sample floating. The design does require supports for the locking groove of the pot-holder, meaning removal of said support is necessary. The holder is designed to be glued to the bottom of a magenta box with water resistant glue.
+The submersion pot-holder is an adapter for magenta boxes to fit and lock in place pots subject to submersion to prevent sample floating. The design requires support structures for printing the locking groove, which must be removed after printing. The holder is designed to be glued to the bottom of a magenta box with water-resistant glue.
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/submersion.png" width="700">
 
@@ -52,14 +52,15 @@ Rafts: No
 Supports: Yes  
 
 ### Printing settings
-The material used is PLA due to its ease of print and accessibility, but being highly hygroscopic it could warp with time and constant watering, so other materials like PETG or ABS could be used to increase the resistance of the chamber to weathering. 
-High print resolution is not fundamental but going any lower than 0.3 mm could make the internal printed surface gritty and cause abnormal root growth.
-Printer technology: For the pot-holder Fused Deposition Modeling (FDM) or stereolithography (SLA) are compatible as the print will not be visible in the Field of View during acquisition. 
+PLA is used as the primary material due to its ease of printing and wide availability. However, since PLA is highly hygroscopic, it may warp over time with constant exposure to moisture. For improved durability and resistance to weathering, alternative materials such as PETG or ABS are recommended.
+While high print resolution is not essential, going any lower than 0.3 mm may result in a rough internal surface, which can negatively affect root development.
+
+Printer technology: For the pot-holder, both Fused Deposition Modeling (FDM) and stereolithography (SLA) are suitable, as the printed component will not be visible within the field of view during image acquisition. 
 
 ## Soil cover print and setup
-The soil cover is designed to prevent soil spillage in the submergence solution.
-The design does require supports for part of the soil cover, meaning removal of said support is necessary. 
-The soil cover locks on top of classical 5 cm Ø pots around the plant main axis.
+The soil cover is designed to prevent soil spillage into the submergence solution.
+The design requires support structures for part of the soil cover, which must be removed after printing. 
+The soil cover locks onto standard 5 cm diameter pots, securing itself around the plant’s main axis.
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/cover.png" width="700">
 
@@ -79,14 +80,14 @@ Rafts: No
 Supports: Yes  
 
 ### Printing settings
-The material used is PLA due to its ease of print and accessibility, but being highly hygroscopic it could warp with time and constant watering, so other materials like PETG or ABS could be used to increase the resistance of the chamber to weathering. 
-High print resolution is not fundamental but going any lower than 0.3 mm could make the internal printed surface gritty and cause abnormal root growth.
-Printer technology: The soil cover will be visible in the FOV, so FDM printing technology is suggested.
-For the soil cover, it is particularly important to use a black, and possibly matte, filament as it will greatly decrease background reflection under certain light sources. 
+PLA is used as the primary material due to its ease of printing and wide availability. However, since PLA is highly hygroscopic, it may warp over time with constant exposure to moisture. For improved durability and resistance to weathering, alternative materials such as PETG or ABS are recommended.
+While high print resolution is not essential, going any lower than 0.3 mm may result in a rough internal surface, which can negatively affect root development.
+
+Printer technology: Since the soil cover will be visible in the field of view (FOV), Fused Deposition Modeling (FDM) is recommended. For this component, it is especially important to use a black, preferably matte, filament to minimize background reflections under certain lighting conditions.
 
 ## Wounding tweezers print and setup
-The wounding tweezers have been designed to apply a similar pressure on different scales of wounded surface. Wounding tweezer n° 1 has a wounding area of around 40 mm^2, n° 2 of around 160 mm^2 and n°3 of around 380 mm^2.
-The design does not require supports. 
+The wounding tweezers are designed to apply consistent pressure across different wound surface areas. Wounding tweezer n° 1 has a wounding area of approximately 40 mm^2, n° 2 around 160 mm^2, and n°3 around 380 mm^2.
+The design does not require support structures for printing.
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/tweezers.png" width="500">
 
@@ -106,13 +107,13 @@ Rafts: No
 Supports: no  
 
 ### Printing settings
-The material used is PLA due to its ease of print and accessibility, but being highly hygroscopic it could warp with time and constant watering, so other materials like PETG or ABS could be used to increase the resistance of the chamber to weathering. 
-High print resolution is not fundamental but going any lower than 0.3 mm could make the internal printed surface gritty and cause abnormal root growth.
-Printer technology: For the tweezers Fused Deposition Modeling (FDM) or stereolithography (SLA) are compatible as the print will not be visible in the Field of View during acquisition. 
+PLA is used as the primary material due to its ease of printing and wide availability. However, since PLA is highly hygroscopic, it may warp over time with constant exposure to moisture. For improved durability and resistance to weathering, alternative materials such as PETG or ABS are recommended.
+While high print resolution is not essential, going any lower than 0.3 mm may result in a rough internal surface, which can negatively affect root development.
+
+Printer technology: For the tweezers, both Fused Deposition Modeling (FDM) and stereolithography (SLA) are suitable, as the printed component will not be visible in the field of view (FOV) during image acquisition.
 
 ## Light path barrier print and setup
-The light path barrier is an easy system to reduce crasstalk between the two orthogonal pathways.
-The design does require supports, meaning removal of said support is necessary. 
+The light path barrier is a simple system designed to reduce crosstalk between the two orthogonal optical pathways. The design requires support structures, which must be removed after printing.
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/barrier.png" width="700">
 
@@ -132,8 +133,9 @@ Rafts: No
 Supports: Yes  
 
 ### Printing settings
-The material used is PLA due to its ease of print and accessibility.
-High print resolution is not fundamental.
-It is still important to use a black, and possibly matte, filament as it will greatly decrease background reflection under certain light sources. 
-Printer technology: Fused Deposition Modeling (FDM) is preferable as stereolithography (SLA) uses UV-absorbent resins that have a high fluorescence to blue-shifted excitation wavelength.
+PLA is used as the primary material due to its ease of printing and wide availability. However, since PLA is highly hygroscopic, it may warp over time with constant exposure to moisture. For improved durability and resistance to weathering, alternative materials such as PETG or ABS are recommended.
+It is important to use a black, preferably matte, filament, as this significantly reduces background reflections under certain lighting conditions.
+While high print resolution is not essential, going any lower than 0.3 mm may result in a rough internal surface, which can negatively affect root development.
+
+Printer technology: Fused Deposition Modeling (FDM) is preferred, as stereolithography (SLA) resins are UV-absorbent and exhibit high fluorescence under blue-shifted excitation wavelengths.
 
