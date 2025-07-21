@@ -3,7 +3,7 @@
 | Component | Image | Provider | Description | Quantity | Unit | Price of a single item |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 |[MVL16M1]|<img src="https://github.com/micropolimi/APPI/raw/main/images/objective.jpeg" width="300"/>|Thorlabs|16 mm EFL, f/1.4, for 1" C-Mount Format Cameras, with Lock|2|Detection Unit|526,87 €|
-|B-P Filter|<img src="https://github.com/micropolimi/APPI/raw/main/images/bp_filter.jpeg" width="300"/>|||2|Detection Unit||
+|[bp_filter]|<img src="https://github.com/micropolimi/APPI/raw/main/images/bp_filter.jpeg" width="300"/>|Edmund Optics|543nm CWL, 50mm Dia, 22nm Bandwidth, OD 6 Fluorescence Filter|2|Detection Unit||
 |[SM2L05]|<img src="https://github.com/micropolimi/APPI/raw/main/images/SM2L05.jpeg" width="300"/>|Thorlabs|SM2L05 - SM2 Lens Tube, 0.5" Thread Depth, One Retaining Ring Included|2|Detection Unit|27,64 €|
 |3D-printed filter holder|<img src="https://github.com/micropolimi/APPI/raw/main/images/3D_printed_holder.jpeg" width="300"/>|Custom made|3D-printed adapter for direct filter mounting on the objective|2|Detection Unit| - |
 |[camera]|<img src="https://github.com/micropolimi/APPI/raw/main/images/camera.jpeg" width="300"/>|Edmund optics|GS3-U3-23S6M-C 1/1.2" FLIR Grasshopper®3 High Performance USB 3.0 Monochrome Camera|2|Detection Unit|1.180 €|
@@ -67,3 +67,4 @@
 [Post Holder (50 mm)]: https://www.thorlabs.com/thorproduct.cfm?partnumber=PH50/M#ad-image-0
 [Post Holder (75 mm)]: https://www.thorlabs.com/thorproduct.cfm?partnumber=PH75/M#ad-image-0
 [Post]: https://www.thorlabs.com/thorproduct.cfm?partnumber=TR75/M
+[bp_filter]:https://www.edmundoptics.eu/p/543nm-cwl-50mm-dia-22nm-bandwidth-od-6-fluorescence-filter/21586/
