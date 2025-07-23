@@ -7,7 +7,7 @@
 ---
 
 ## 🌱 Overview
-MAPPI (Macroscopic Plant Projection Imaging) is an open-source project dedicated to advanced imaging of growing plants. It provides tools for:
+MAPPI (MAcroscopic Plant Projection Imaging) is an open-source project dedicated to advanced imaging of growing plants. It provides tools for:
 ✅ Software-controlled optical imaging using cameras and LEDs.
 ✅ Automated data analysis with region-of-interest (ROI) registration.
 ✅ Hardware integration for multiview plant growth monitoring.
@@ -19,12 +19,12 @@ MAPPI (Macroscopic Plant Projection Imaging) is an open-source project dedicated
 ## 🖥️ Software Installation
 The control software for MAPPI is based on [Scope Foundry]. To set up the python environment and install the software:
 1. Follow the [Scope Foundry installation] guidelines.
-2. Download or clone the [APPI code], which runs cameras, LEDs, and controls triggers with a dedicated [App].
+2. Download or clone the [MAPPI code], which runs cameras, LEDs, and controls triggers with a dedicated [App].
 
 ---
 
 ## ⚙️ Software Usage
-By running the *plant_app* script, a new window appears on the screen, allowing control of the MAPPI system. All acquisition parameters can be configured through the *Console* widget, located above the canvas. A detailed description of the options offered by the *Console* is provided below.
+By running the *plant_app* script, a new window appears on the screen, allowing control of the MAPPI system. All acquisition parameters can be configured through the *PlantTimeLapseDualMeasure* widget, located above the canvas. A detailed description of the options offered by the *PlantTimeLapseDualMeasure* is provided below.
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/APPI_GUI.png">
 
@@ -53,7 +53,7 @@ For analyzing MAPPI datasets of growing plants, we recommend using the [napari R
 ---
 
 ## 🛠️ Hardware Components
-A list of all the components necessary to reproduce the APPI platform is available at the following [link].
+A list of all the components necessary to reproduce the MAPPI platform is available at the following [link].
 
 ---
 
@@ -95,7 +95,7 @@ Have suggestions or issues? Feel free to [file an issue] or contribute to the pr
 [Scope Foundry]: https://scopefoundry.org/
 [Scope Foundry installation]: https://scopefoundry.org/docs/1_getting-started/
 [file an issue]: https://github.com/micropolimi/APPI/issues
-[Appi code]: https://github.com/micropolimi/APPI/raw/main/src
+[MAPPI code]: https://github.com/micropolimi/APPI/raw/main/src
 [App]: https://github.com/micropolimi/APPI/raw/main/src/plant_app.py
 [napari Roi Registration plugin]: https://www.napari-hub.org/plugins/napari-roi-registration
 [BSD-3]: http://opensource.org/licenses/BSD-3-Clause
