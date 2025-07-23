@@ -8,7 +8,7 @@
 |3D-printed filter holder|<img src="https://github.com/micropolimi/APPI/raw/main/images/3D_printed_holder.jpeg" width="300"/>|Custom made|3D-printed adapter for direct filter mounting on the objective|2|Detection Unit| - |
 |[camera]|<img src="https://github.com/micropolimi/APPI/raw/main/images/camera.jpeg" width="300"/>|Edmund optics|GS3-U3-23S6M-C 1/1.2" FLIR Grasshopper®3 High Performance USB 3.0 Monochrome Camera|2|Detection Unit|1.180 €|
 |[Post]|<img src="https://github.com/micropolimi/APPI/raw/main/images/post.jpeg" width="300"/>|Thorlabs|TR75/M-P5 - Ø12.7 mm Optical Post, SS, M4 Setscrew, M6 Tap, L = 75 mm, 5 Pack|1|H/V arm|26,94 €|
-|Clamping Fork|<img src="https://github.com/micropolimi/APPI/raw/main/images/clamp.jpeg" width="300"/>|Thorlabs||2|H detection unit/V lens unit||
+|[Clamping Fork]|<img src="https://github.com/micropolimi/APPI/raw/main/images/clamp.jpeg" width="300"/>|Thorlabs|CF125C/M - Clamping Fork for Ø1.25" Pedestal Bases, 31.5 mm Counterbored Slot, M6 x 1.0 Captive Screw|2|H detection unit/V lens unit|12,48|
 |[Post Holder (75 mm)]|<img src="https://github.com/micropolimi/APPI/raw/main/images/post_holder_75mm.jpeg" width="300"/>|Thorlabs|PH75/M-P5 - Ø12.7 mm Post Holder, Spring-Loaded Hex-Locking Thumbscrew, L=75 mm, 5 Pack|1|H/V arm|44,58 €|
 |[Base Adapter]|<img src="https://github.com/micropolimi/APPI/raw/main/images/base.jpeg" width="300"/>|Thorlabs|BE1/M - Ø31.8 mm Studded Pedestal Base Adapter, M6 Threads|2|H detection unit/V lens unit|10,54 €|
 |[SM2L15]|<img src="https://github.com/micropolimi/APPI/raw/main/images/SM2L15.jpeg" width="300"/>|Thorlabs|SM2L15 - SM2 Lens Tube, 1.5" Thread Depth, One Retaining Ring Included|2|H/V arm|33,11 €|
@@ -32,10 +32,10 @@
 |[XT66DP-500]|<img src="https://github.com/micropolimi/APPI/raw/main/images/XT66DP-500.jpeg" width="300"/>|Thorlabs|66 mm Double Dovetail Rail, L = 500 mm|1|V arm|52,00 €|
 |[XT66CB]|<img src="https://github.com/micropolimi/APPI/raw/main/images/XT66CB.jpeg" width="300"/>|Thorlabs|Cross Bracket for 66 mm Rails|1|V arm|24,03 €|
 |[DLP-IO8-G]|<img src="https://github.com/micropolimi/APPI/raw/main/images/DLP.jfif" width="300"/>|Digikey|MODULE DATA-ACQUISITION 8-CH|2|H/V arm|26,23 €|
-|Breadboard||Thorlabs||1|||
-|Table clamp||Thorlabs||2|V arm||
+|[Breadboard]|<img src="https://github.com/micropolimi/APPI/raw/main/images/breadboard.jpg" width="300"/>|Thorlabs|B6060L - Nexus Breadboard, 600 mm x 600 mm x 60 mm, Sealed M6 x 1.0 Mounting Holes|1|-|1116,05 €|
+|[Table clamp]|<img src="https://github.com/micropolimi/APPI/raw/main/images/table_clamp.jpg" width="300"/>|Thorlabs|CL5 - Table Clamp, L-Shap|2|V arm|5,15 €|
 |Double BNC cable|<img src="https://github.com/micropolimi/APPI/raw/main/images/BNC.jfif" width="300"/>|-||2|H/V arm|-|
-|1'' ring||Thorlabs||2|Filter unit||
+|[Retaining ring]|<img src="https://github.com/micropolimi/APPI/raw/main/images/ring.jpg" width="300"/>|Thorlabs|SM1RR - SM1 Retaining Ring for Ø1" Lens Tubes and Mounts |2|Filter unit|4,74 €|
 
 
 
@@ -66,3 +66,7 @@
 [Post Holder (75 mm)]: https://www.thorlabs.com/thorproduct.cfm?partnumber=PH75/M-P5#ad-image-0
 [Post]: https://www.thorlabs.com/thorproduct.cfm?partnumber=TR75/M-P5
 [B-P Filter]:https://www.edmundoptics.eu/p/543nm-cwl-50mm-dia-22nm-bandwidth-od-6-fluorescence-filter/21586/
+[Clamping Fork]:https://www.thorlabs.com/thorproduct.cfm?partnumber=CF125C/M#ad-image-0
+[Breadboard]:https://www.thorlabs.com/thorproduct.cfm?partnumber=B6060L
+[Table clamp]:https://www.thorlabs.com/thorproduct.cfm?partnumber=CL5
+[Retaining ring]:https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1RR
