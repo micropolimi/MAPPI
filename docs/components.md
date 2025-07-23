@@ -35,6 +35,7 @@
 |[Table clamp]|<img src="https://github.com/micropolimi/APPI/raw/main/images/table_clamp.jpg" width="300"/>|Thorlabs|CL5 - Table Clamp, L-Shap|2|V arm|5,15 €|
 |Double BNC cable|<img src="https://github.com/micropolimi/APPI/raw/main/images/BNC.jfif" width="300"/>|-|Double BNC cable|2|H/V arm|-|
 |[Retaining ring]|<img src="https://github.com/micropolimi/APPI/raw/main/images/ring.jpg" width="300"/>|Thorlabs|SM1RR - SM1 Retaining Ring for Ø1" Lens Tubes and Mounts |2|Filter unit|4,74 €|
+|[Screw kit]|<img src="https://github.com/micropolimi/APPI/raw/main/images/screw_kit.jpg" width="300"/>|Thorlabs|HW-KIT2/M - M6 Cap Screw and Hardware Kit|1|-|135,76|
 
 
 
@@ -69,3 +70,4 @@
 [Breadboard]:https://www.thorlabs.com/thorproduct.cfm?partnumber=B6060L
 [Table clamp]:https://www.thorlabs.com/thorproduct.cfm?partnumber=CL5
 [Retaining ring]:https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1RR
+[Screw kit]:https://www.thorlabs.com/thorproduct.cfm?partnumber=HW-KIT2/M
