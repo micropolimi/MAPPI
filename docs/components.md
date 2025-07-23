@@ -7,8 +7,7 @@
 |[SM2L05]|<img src="https://github.com/micropolimi/APPI/raw/main/images/SM2L05.jpeg" width="300"/>|Thorlabs|SM2L05 - SM2 Lens Tube, 0.5" Thread Depth, One Retaining Ring Included|2|Detection Unit|27,64 €|
 |3D-printed filter holder|<img src="https://github.com/micropolimi/APPI/raw/main/images/3D_printed_holder.jpeg" width="300"/>|Custom made|3D-printed adapter for direct filter mounting on the objective|2|Detection Unit| - |
 |[camera]|<img src="https://github.com/micropolimi/APPI/raw/main/images/camera.jpeg" width="300"/>|Edmund optics|GS3-U3-23S6M-C 1/1.2" FLIR Grasshopper®3 High Performance USB 3.0 Monochrome Camera|2|Detection Unit|1.180 €|
-|[Post]|<img src="https://github.com/micropolimi/APPI/raw/main/images/post.jpeg" width="300"/>|Thorlabs|
-TR75/M-P5 - Ø12.7 mm Optical Post, SS, M4 Setscrew, M6 Tap, L = 75 mm, 5 Pack|1|H/V arm|26,94 €|
+|[Post]|<img src="https://github.com/micropolimi/APPI/raw/main/images/post.jpeg" width="300"/>|Thorlabs|TR75/M-P5 - Ø12.7 mm Optical Post, SS, M4 Setscrew, M6 Tap, L = 75 mm, 5 Pack|1|H/V arm|26,94 €|
 |Clamping Fork|<img src="https://github.com/micropolimi/APPI/raw/main/images/clamp.jpeg" width="300"/>|Thorlabs||2|H detection unit/V lens unit||
 |[Post Holder (75 mm)]|<img src="https://github.com/micropolimi/APPI/raw/main/images/post_holder_75mm.jpeg" width="300"/>|Thorlabs|PH75/M-P5 - Ø12.7 mm Post Holder, Spring-Loaded Hex-Locking Thumbscrew, L=75 mm, 5 Pack|1|H/V arm|44,58 €|
 |[Base Adapter]|<img src="https://github.com/micropolimi/APPI/raw/main/images/base.jpeg" width="300"/>|Thorlabs|BE1/M - Ø31.8 mm Studded Pedestal Base Adapter, M6 Threads|2|H detection unit/V lens unit|10,54 €|
