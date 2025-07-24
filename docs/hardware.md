@@ -31,14 +31,17 @@ Mount the horizontal rail ([XT66SD-500], 1) onto the breadboard. Pay close atten
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/h_panel_1.png">
 
+<p align="justify">
 Once you are satisfied with the positioning of the LED relative to the lens, you can reattach the filter unit to the rail. The filter unit should be positioned at the focal plane of the lens, where the image of the LED source (four emitters) is formed (see image below). Identify this point along the optical path and fix the filter unit in place.
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/4_emitters.jpeg" width="300">
 
+<p align="justify">
 Add the [SM1A2] to the filter unit (7). This will secure the filter within its cage. Mount the [SM2L20] tube onto the SM1A2 (8). The illumination unit is now complete. You can adjust its position on the rail and place it in its final location.
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/h_panel_2.png">
 
+<p align="justify">
 Mount the post holder onto the base adapter ([BE1]), and secure them to the breadboard using a [clamping fork] (9). Insert the [post] (10) and screw the camera onto it (11). You can now connect the camera. Mount the objective onto the camera (12), add the 3D-printed support for the filter (13), and then screw in the [SM2L05] tube containing the mounted band-pass filter (14). The horizontal arm of the MAPPI setup is now complete. 
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/h_panel_3.png">
@@ -56,14 +59,14 @@ For the vertical arm, the camera must be mounted on a clamping platform ([XT66C4
 
 #### Illumination unit
 <p align="justify">
-The same instructions used to build the horizontal illumination unit should be followed to assemble the vertical one. The only difference lies in how the lens unit is mounted onto the clamping platform. In this case, the lens unit is secured to the clamping platform using a clamping fork (see figure below). This configuration allows the vertical illumination unit to be slightly tilted rather than perfectly vertical. In this way, it is possible to illuminate the same area imaged by the camera while keeping the camera parallel to the sample plane. 
+The same instructions used to build the horizontal illumination unit should be followed to assemble the vertical one. The only difference lies in how the lens unit is mounted onto the clamping platform. In this case, the lens unit is secured to the clamping platform using a clamping fork (see figure below). This configuration allows the vertical illumination unit to be slightly tilted rather than perfectly vertical. In this way, it is possible to illuminate the same area imaged by the camera while keeping the camera parallel to the sample plane.  
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/clamp_detail.jpg" width="300">
 
 ### Step 2: assemble the vertical arm
 <p align="justify">
 Mount the vertical shaft ([XT66-100]) using the vertical mounting plate ([XT66P1]), and cover the lower part of the shaft with a black cloth to avoid unwanted light reflections during measurements (1). Mount the illumination unit on one side of the shaft using the clamping platforms (2). Adjust the height of the illumination unit along the shaft according to the sample dimensions, maintaining a distance of 45 cm between the last lens and the sample.
-Mount one of the two double dovetail clamps ([XT66C2]) on another side of the shaft (3), specifically on the side where the horizontal arm of the MAPPI platform is located. Attach the cross bracket ([XT66CB]) to the double dovetail clamp (4), then mount the second XT66C2 onto the cross bracket (5). Add the rail ([XT66DP-500]) that will hold the camera vertically above the sample (6). Mount the camera unit onto this rail near the LED (7). Finally, screw the objective (already fitted with the filter) onto the camera, and connect the camera (8).
+Mount one of the two double dovetail clamps ([XT66C2]) on another side of the shaft (3), specifically on the side where the horizontal arm of the MAPPI platform is located. Attach the cross bracket ([XT66CB]) to the double dovetail clamp (4), then mount the second XT66C2 onto the cross bracket (5). Add the rail ([XT66DP-500]) that will hold the camera vertically above the sample (6). Mount the camera unit onto this rail near the LED (7). Finally, screw the objective (already fitted with the filter) onto the camera, and connect the camera (8).  
 Your MAPPI platform is now complete.
 
 <img src="https://github.com/micropolimi/APPI/raw/main/images/v_panel.png">
