@@ -61,6 +61,7 @@ For the vertical arm, the camera must be mounted on a clamping platform ([XT66C4
 <p align="justify">
 The same instructions used to build the horizontal illumination unit should be followed to assemble the vertical one. The only difference lies in how the lens unit is mounted onto the clamping platform. In this case, the lens unit is secured to the clamping platform using a clamping fork (see figure below). This configuration allows the vertical illumination unit to be slightly tilted rather than perfectly vertical. In this way, it is possible to illuminate the same area imaged by the camera while keeping the camera parallel to the sample plane.  
 
+
 <img src="https://github.com/micropolimi/APPI/raw/main/images/clamp_detail.jpg" width="300">
 
 ### Step 2: assemble the vertical arm
