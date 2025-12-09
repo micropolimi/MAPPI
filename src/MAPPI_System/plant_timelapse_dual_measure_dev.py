@@ -26,11 +26,12 @@ class PlantTimeLapseDualMeasure(Measurement):
         For Pointgrey Grasshopper CMOS the pixelsize is: 5.86um
         """
 
-        self.ui_filename = sibling_path(__file__, "camera.ui")
+        self.ui_filename = sibling_path(__file__, "camera_dual.ui")
         self.ui = load_qt_ui_file(self.ui_filename)
         self.settings.New('camera_in_use', dtype=str, choices=list(VIEWS), initial=list(VIEWS)[0])
-        self.settings.New('acquisition_time', dtype=float, unit='ms',
-                          initial=100.0, spinbox_decimals=3, vmin=0.01)
+        
+        self.settings.New('desired_frame_rate', dtype=float, unit='fps',
+                          initial=1.0, spinbox_decimals=1)
         self.settings.New('time_lapse_num', dtype=int, initial=1, vmin=1)
         self.settings.New('time_lapse_waiting_time', dtype=float, unit='s',
                           initial=5.0, spinbox_decimals=3)
@@ -51,43 +52,34 @@ class PlantTimeLapseDualMeasure(Measurement):
         self.settings.New('refresh_period', dtype=float,
                           unit='s', spinbox_decimals=3, initial=0.03, vmin=0)
         
+        self.settings.desired_frame_rate.hardware_set_func = self.set_frame_rate
         self.setup_hardware()
 
     def set_view(self,view='X'):
         if hasattr(self, 'cameras'):
-            cam = self.cameras[VIEWS[view]]
-            acq_time = cam.settings['exposure_time']
-            self.settings['acquisition_time'] = acq_time
-    
-    def set_acq_time(self, desired_time):
-        if hasattr(self, 'cameras'):
-            view = self.settings['camera_in_use']
-            cam_idx = VIEWS[view]
-            cam = self.cameras[cam_idx]
-            # maxfr = cam.camera.cam.get_info('AcquisitionFrameRate')['max'] 
-            # minfr = cam.camera.cam.get_info('AcquisitionFrameRate')['min']
-            # desired_rate = 1000/desired_time * 0.95 # consider 5% less than maximum achievable
-            desired_rate = 1.0 #TODO: fix the syncronization bug
-            cam.settings['frame_rate'] = desired_rate
-            # fr = cam.camera.cam.AcquisitionFrameRate
-            maxexp = cam.camera.cam.get_info('ExposureTime')['max']/1000.0
-            cam.settings['exposure_time'] = desired_time
-            if desired_time > maxexp:
-                print(f'Warning: desiderd exposure time {desired_time} exceeds maximun time {maxexp}')
+            cam = self.cameras[VIEWS[view]]     
             
+    def set_frame_rate(self, val):
+        for c in self.cameras:
+            c.settings['frame_rate'] = val# self.settings['desired_frame_rate']
+            c.camera.get_rate()
+            c.camera.get_exposure() # triggers exposure print if camera debug mode is on
+    
             
     def setup_hardware(self):
         self.cameras = []
         self.leds = []
         
-        cam = self.app.hardware['camera_y']
-        self.cameras.append(cam)
+        camy = self.app.hardware['camera_y']
+        self.cameras.append(camy)
+        camy.exposure_time.connect_to_widget(self.ui.YacquisitionBox)
         
         self.leds.append(self.app.hardware['led_y'])
         self.app.hardware['led_y'].channel_1.connect_to_widget(self.ui.led_y_Box)
         
-        cam = self.app.hardware['camera_x']
-        self.cameras.append(cam)
+        camx = self.app.hardware['camera_x']
+        self.cameras.append(camx)
+        camx.exposure_time.connect_to_widget(self.ui.XacquisitionBox)
         
         self.leds.append(self.app.hardware['led_x'])   
         self.app.hardware['led_x'].channel_1.connect_to_widget(self.ui.led_x_Box)
@@ -115,9 +107,7 @@ class PlantTimeLapseDualMeasure(Measurement):
         self.settings.time_lapse_num.connect_to_widget(self.ui.num_Box)
         self.settings.time_lapse_waiting_time.connect_to_widget(self.ui.waiting_timeBox)
         self.settings.camera_in_use.connect_to_widget(self.ui.viewBox)
-        self.settings.acquisition_time.connect_to_widget(self.ui.acquisitionBox)
         self.settings.camera_in_use.hardware_set_func = self.set_view
-        self.settings.acquisition_time.hardware_set_func = self.set_acq_time
         
         # Set up pyqtgraph graph_layout in the UI
         self.imv = pg.ImageView()
@@ -170,13 +160,23 @@ class PlantTimeLapseDualMeasure(Measurement):
         
         for c in self.cameras:
             #c.camera.acq_stop()
+            c.camera.set_stream_mode(buffer_mode='NewestOnly')
             c.settings['acquisition_mode'] = 'MultiFrame'
-            c.settings['frame_num'] = frame_num+1 #note that we acquire and than skip the first frame
+            c.settings['frame_num'] = frame_num
             c.read_from_hardware()
         
         self.initial_time = time.time()
         
         for time_lapse_idx in range(time_lapse_num):
+            
+            view = self.settings['camera_in_use'] #only used if camera debug is on
+            cam_idx = VIEWS[view]
+            cam = self.cameras[cam_idx]
+            cam.camera.get_exposure()
+            cam.camera.get_rate()
+            cam.camera.get_stream_mode()
+            
+                        
             self.time_index = time_lapse_idx
             if self.interrupt_measurement_called:
                 break
@@ -191,7 +191,7 @@ class PlantTimeLapseDualMeasure(Measurement):
                 
             self.images = []
             
-            for frame_idx in range(frame_num+1): #note that we acquire and than skip the first frame
+            for frame_idx in range(frame_num): 
                 
                 self.frame_index = frame_idx
                 for cam_idx,cam in enumerate(self.cameras):
@@ -211,7 +211,7 @@ class PlantTimeLapseDualMeasure(Measurement):
                             self.init_h5_dataset(time_lapse_idx)
                         first_frame_acquired = True
                     for cam_idx,cam in enumerate(self.cameras):
-                        self.h5_datasets[cam_idx][frame_idx-1, :, :] = self.images[cam_idx] # #note that we acquire and than skip the first frame
+                        self.h5_datasets[cam_idx][frame_idx, :, :] = self.images[cam_idx] # #note that we acquire and than skip the first frame
                
                     self.h5file.flush()
 

@@ -23,9 +23,6 @@ class camera_app(BaseMicroscopeApp):
         from camera_measure import FlirMeasure
         self.add_measurement(FlirMeasure(self))
 
-        self.ui.show()
-        self.ui.activateWindow()
-
 
 if __name__ == '__main__':
     import sys

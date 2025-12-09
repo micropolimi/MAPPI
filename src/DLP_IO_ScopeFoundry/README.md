@@ -1,0 +1,2 @@
+# DLP_IO_ScopeFoundry
+ScopeFoundry code for IO board DLP-IO8-G USB-BASED 8-CHANNEL DATA ACQUISITION MODULE

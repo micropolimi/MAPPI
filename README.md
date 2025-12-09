@@ -89,7 +89,7 @@ Have suggestions or issues? Feel free to [file an issue] or contribute to the pr
 🔗 **Useful Links:**
 - [Scope Foundry] - Imaging framework
 - [Scope Foundry Installation] - Step-by-step setup guide
-- [APPI Code] - Source files
+- [MAPPI Code] - Source files
 - [napari ROI Registration Plugin] - Data analysis tool
 
 [Scope Foundry]: https://scopefoundry.org/

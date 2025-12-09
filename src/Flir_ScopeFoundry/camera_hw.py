@@ -49,6 +49,8 @@ class FlirHW(HardwareComponent):
         self.gain.hardware_read_func = self.camera.get_gain
         self.gain.hardware_set_func = self.camera.set_gain
         self.camera_serial.hardware_read_func = self.camera.get_serial
+        self.debug_mode.hardware_read_func = self.camera.get_debug_mode
+        self.debug_mode.hardware_set_func = self.camera.set_debug_mode
         self.read_from_hardware()
         
     def disconnect(self):

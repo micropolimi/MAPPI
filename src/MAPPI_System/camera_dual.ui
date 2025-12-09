@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1059</width>
+    <height>697</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout_2" rowstretch="0,0">
+   <item row="1" column="0">
+    <widget class="QGroupBox" name="image_groupBox">
+     <property name="title">
+      <string/>
+     </property>
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <item>
+       <layout class="QGridLayout" name="imageLayout">
+        <item row="0" column="0">
+         <widget class="QGroupBox" name="settings_groupBox">
+          <property name="minimumSize">
+           <size>
+            <width>0</width>
+            <height>60</height>
+           </size>
+          </property>
+          <property name="title">
+           <string/>
+          </property>
+          <layout class="QGridLayout" name="gridLayout">
+           <item row="1" column="6">
+            <widget class="QDoubleSpinBox" name="XacquisitionBox"/>
+           </item>
+           <item row="1" column="11">
+            <widget class="QCheckBox" name="led_x_Box">
+             <property name="text">
+              <string>X LED</string>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="11">
+            <widget class="QCheckBox" name="led_y_Box">
+             <property name="text">
+              <string>Y LED</string>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="3">
+            <widget class="QDoubleSpinBox" name="min_doubleSpinBox"/>
+           </item>
+           <item row="0" column="0">
+            <widget class="QPushButton" name="start_pushButton">
+             <property name="text">
+              <string>Start</string>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="13">
+            <widget class="QLabel" name="label">
+             <property name="text">
+              <string>Time Lapse Number</string>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="7">
+            <widget class="QLabel" name="label_3">
+             <property name="text">
+              <string>Y exposure (ms)</string>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="3">
+            <widget class="QDoubleSpinBox" name="max_doubleSpinBox"/>
+           </item>
+           <item row="1" column="7">
+            <widget class="QLabel" name="label_5">
+             <property name="text">
+              <string>X exposure (ms)</string>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="4">
+            <widget class="QLabel" name="level_min_label">
+             <property name="text">
+              <string>max</string>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="1">
+            <widget class="QCheckBox" name="save_h5_checkBox">
+             <property name="text">
+              <string>Save H5</string>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="6">
+            <widget class="QDoubleSpinBox" name="YacquisitionBox">
+             <property name="maximum">
+              <double>100000.000000000000000</double>
+             </property>
+             <property name="singleStep">
+              <double>10.000000000000000</double>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="4">
+            <widget class="QLabel" name="level_max_label">
+             <property name="text">
+              <string>min</string>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="2">
+            <widget class="QCheckBox" name="autoLevels_checkbox">
+             <property name="text">
+              <string>AutoLevels</string>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="12">
+            <widget class="QDoubleSpinBox" name="num_Box">
+             <property name="decimals">
+              <number>0</number>
+             </property>
+             <property name="minimum">
+              <double>1.000000000000000</double>
+             </property>
+             <property name="maximum">
+              <double>10000.000000000000000</double>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="13">
+            <widget class="QLabel" name="label_2">
+             <property name="text">
+              <string>Waiting Time (s)</string>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="2">
+            <widget class="QCheckBox" name="autoRange_checkbox">
+             <property name="text">
+              <string>AutoRange</string>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="0">
+            <widget class="QPushButton" name="interrupt_pushButton">
+             <property name="text">
+              <string>Interrupt</string>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="12">
+            <widget class="QDoubleSpinBox" name="waiting_timeBox">
+             <property name="maximum">
+              <double>99999.990000000005239</double>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="5">
+            <widget class="QComboBox" name="viewBox">
+             <item>
+              <property name="text">
+               <string>X</string>
+              </property>
+             </item>
+             <item>
+              <property name="text">
+               <string>Y</string>
+              </property>
+             </item>
+            </widget>
+           </item>
+           <item row="1" column="5">
+            <widget class="QLabel" name="label_4">
+             <property name="text">
+              <string>View </string>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+       </layout>
+      </item>
+     </layout>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
