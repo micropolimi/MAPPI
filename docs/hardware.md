@@ -1,5 +1,5 @@
 # Build your own MAPPI platform
-<p align="justify">
+
 This section presents a step-by-step guide to facilitate the replication of the MAPPI setup, using the components listed at the following [link].
 
 ## Horizontal arm
