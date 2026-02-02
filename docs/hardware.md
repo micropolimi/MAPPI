@@ -80,7 +80,7 @@ Mount one of the two double dovetail clamps ([XT66C2]) on another side of the sh
 
 <img src="https://github.com/micropolimi/MAPPI/raw/main/images/v_panel.png">
 
-[link]: https://github.com/micropolimi/APPI/blob/main/docs/components.md
+[link]: https://github.com/micropolimi/MAPPI/blob/main/docs/components.md
 [LCP36]: https://www.thorlabs.de/thorproduct.cfm?partnumber=LCP36
 [ER8-P4]: https://www.thorlabs.com/thorproduct.cfm?partnumber=ER8-P4
 [LCP50D]: https://www.thorlabs.com/thorproduct.cfm?partnumber=LCP50D
