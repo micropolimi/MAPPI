@@ -78,7 +78,7 @@ Mount the vertical shaft ([XT66-100]) using the vertical mounting plate ([XT66P1
 Mount one of the two double dovetail clamps ([XT66C2]) on another side of the shaft (3), specifically on the side where the horizontal arm of the MAPPI platform is located. Attach the cross bracket ([XT66CB]) to the double dovetail clamp (4), then mount the second XT66C2 onto the cross bracket (5). Add the rail ([XT66DP-500]) that will hold the camera vertically above the sample (6). Mount the camera unit onto this rail near the LED (7). Finally, screw the objective (already fitted with the filter) onto the camera, and connect the camera (8). Your MAPPI platform is now complete.
 </p>
 
-<img src="https://github.com/micropolimi/APPI/raw/main/images/v_panel.png">
+<img src="https://github.com/micropolimi/MAPPI/raw/main/images/v_panel.png">
 
 [link]: https://github.com/micropolimi/APPI/blob/main/docs/components.md
 [LCP36]: https://www.thorlabs.de/thorproduct.cfm?partnumber=LCP36
@@ -94,7 +94,7 @@ Mount one of the two double dovetail clamps ([XT66C2]) on another side of the sh
 [SM1A2]: https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1A2
 [SM2L20]: https://www.thorlabs.com/thorproduct.cfm?partnumber=SM2L20
 [BE1]: https://www.thorlabs.com/thorproduct.cfm?partnumber=BE1/M#ad-image-0
-[SM2L05]: https://www.thorlabs.com/thorproduct.cfm?partnumber=SM2L05
+[SM2L05]: https://www.thorlabs.com/item/SM2L05
 [XT66-100]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66-100
 [XT66P1]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66P1
 [XT66C2]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66C2
