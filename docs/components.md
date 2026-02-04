@@ -25,7 +25,7 @@
 |[ER8-P4]|<img src="https://github.com/micropolimi/APPI/raw/main/images/rod.jpeg" width="300"/>|Thorlabs|Cage Assembly Rod, 8" Long, Ø6 mm, 4 Pack|2|LED Unit|46,77 €|
 |[LCP36]|<img src="https://github.com/micropolimi/APPI/raw/main/images/LCP36.jpeg" width="300"/>|Thorlabs|60 mm Cage Plate with Ø2.2" (Ø56.0 mm) Double Bore for SM2 Lens Tube Mounting|2|LED Unit|48,80 €|
 |[XT66SD-500]|<img src="https://github.com/micropolimi/APPI/raw/main/images/h_rail.jpg" width="300"/>|Thorlabs|66 mm Single Dovetail Rail with Mounting Counterbores, L = 500 mm|1|H arm|92,87 €|
-|[XT66-100]|<img src="https://github.com/micropolimi/APPI/raw/main/images/v_rail.jpg" width="300"/>|Thorlabs|66 mm Construction Rail, L = 100 mm|1|V arm|45,84 €|
+|[XT66-1000]|<img src="https://github.com/micropolimi/APPI/raw/main/images/v_rail.jpg" width="300"/>|Thorlabs|66 mm Construction Rail, L = 100 mm|1|V arm|171,42 €|
 [XT66P1]|<img src="https://github.com/micropolimi/APPI/raw/main/images/XT66P1.jpeg" width="300"/>|Thorlabs|Vertical Mounting Plate for 34 mm & 66 mm Optical Rails|1|V arm|41,02 €|
 |[XT66C2]|<img src="https://github.com/micropolimi/APPI/raw/main/images/XT66C2.jpeg" width="300"/>|Thorlabs|40 mm Long Double Dovetail Clamp for 66 mm Rails |2|V arm|24,91 €|
 |[XT66DP-500]|<img src="https://github.com/micropolimi/APPI/raw/main/images/XT66DP-500.jpeg" width="300"/>|Thorlabs|66 mm Double Dovetail Rail, L = 500 mm|1|V arm|52,00 €|
@@ -58,7 +58,7 @@
 [LCP36]: https://www.thorlabs.de/thorproduct.cfm?partnumber=LCP36
 [XT66SD-500]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66SD-500
 [XT66P1]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66P1
-[XT66-100]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66-100
+[XT66-1000]: https://www.thorlabs.com/item/XT66-1000
 [XT66C2]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66C2
 [XT66DP-500]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66DP-500
 [XT66CB]: https://www.thorlabs.com/thorproduct.cfm?partnumber=XT66CB
